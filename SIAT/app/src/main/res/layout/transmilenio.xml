@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/gradientbackground"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            app:srcCompat="@drawable/juntos" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            app:srcCompat="@drawable/turno" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="70dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/B_menu"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/redbuttons"
+                android:text="Menu"
+                android:textColor="@color/common_google_signin_btn_text_dark_default" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="20dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/B_cerrar"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/redbuttons"
+                android:text="Cerrar"
+                android:textColor="@color/common_google_signin_btn_text_dark_default" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="489dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="61dp">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/B_pnorte"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginBottom="10dp"
+                        android:layout_weight="1"
+                        android:text="P.Norte" />
+
+                    <Button
+                        android:id="@+id/B_calle85"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_weight="1"
+                        android:text="Calle 85" />
+
+                    <Button
+                        android:id="@+id/B_calle45"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Calle45" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearLaydsadsa"
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginBottom="0dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/imageVdsads"
+                        android:layout_width="900dp"
+                        android:layout_height="340dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginLeft="100dp"
+                        android:background="@android:color/background_light"
+                        app:srcCompat="@drawable/mapatm" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="0dp"
+                    android:orientation="horizontal">
+
+                    <ProgressBar
+                        android:id="@+id/barra1"
+                        style="@android:style/Widget.DeviceDefault.ProgressBar.Horizontal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="#ffffff"
+                        android:max="10"
+                        android:progress="0"
+                        android:progressDrawable="@android:color/holo_red_dark" />
+
+                    <CheckBox
+                        android:id="@+id/T_bus1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="CheckBox" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <ProgressBar
+                        android:id="@+id/barra2"
+                        style="@android:style/Widget.DeviceDefault.ProgressBar.Horizontal"
+                        android:layout_width="366dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="#00cc0000"
+                        android:max="10"
+                        android:progress="0"
+                        android:progressDrawable="@android:color/holo_red_dark" />
+
+                    <CheckBox
+                        android:id="@+id/T_bus2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="CheckBox" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <ProgressBar
+                        android:id="@+id/barra3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="#00cc0000"
+                        android:max="10"
+                        android:progress="0"
+                        android:progressDrawable="@android:color/holo_red_dark" />
+
+                    <CheckBox
+                        android:id="@+id/T_bus3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="CheckBox" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <ProgressBar
+                        android:id="@+id/barra4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="#00cc0000"
+                        android:max="10"
+                        android:progress="0"
+                        android:progressDrawable="@android:color/holo_red_dark" />
+
+                    <CheckBox
+                        android:id="@+id/T_bus4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_weight="1"
+                        android:text="CheckBox" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

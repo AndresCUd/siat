@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="197dp"
+            android:layout_height="48dp"
+            android:layout_marginLeft="100dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/B_menu"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/redbuttons"
+                android:text="Menu" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="197dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/B_cerrar"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/redbuttons"
+                android:text="Cerrar" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/gradientbackground"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            app:srcCompat="@drawable/juntos" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            app:srcCompat="@drawable/silla" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="center_horizontal"
+        app:srcCompat="@drawable/silla" />
+
+
+</RelativeLayout>

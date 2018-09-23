@@ -1,0 +1,2142 @@
+C15 PORTAL SUBA,Portal Tunal T3
+C15 PORTAL SUBA,Parque el Tunal A - 4
+C15 PORTAL SUBA,Biblioteca A - 3
+C15 PORTAL SUBA,Calle 40 Sur C - 3
+C15 PORTAL SUBA,Olaya A - 3
+C15 PORTAL SUBA,Nariño B - 4
+C15 PORTAL SUBA,Tercer Milenio C - 3
+C15 PORTAL SUBA,Calle 19 C - 3
+C15 PORTAL SUBA,Calle 22 C - 3
+C15 PORTAL SUBA,Avenida 39 C - 3
+C15 PORTAL SUBA,Calle 45 C - 3
+C15 PORTAL SUBA,Marly C - 3
+C15 PORTAL SUBA,Calle 76 A - 4 ó 6
+C15 PORTAL SUBA,Escuela Militar A - 4
+C15 PORTAL SUBA,RIO NEGRO B - 4
+C15 PORTAL SUBA,PUENTE LARGO A - 3
+C15 PORTAL SUBA,HUMEDAL CORDOBA B - 4
+C15 PORTAL SUBA,Niza - Calle 127 B - 4
+C15 PORTAL SUBA,21 ANGELES A - 3
+C15 PORTAL SUBA,Portal Suba T3
+H15 PORTAL TUNAL,Portal Suba T3
+H15 PORTAL TUNAL,21 ANGELES A - 2
+H15 PORTAL TUNAL,Niza - Calle 127 B - 1
+H15 PORTAL TUNAL,HUMEDAL CORDOBA B - 1
+H15 PORTAL TUNAL,PUENTE LARGO B - 1 ó 5
+H15 PORTAL TUNAL,RIO NEGRO B - 1
+H15 PORTAL TUNAL,Escuela Militar A - 2
+H15 PORTAL TUNAL,Calle 76 B - 2 ó 5
+H15 PORTAL TUNAL,Marly A - 2 ó 5
+H15 PORTAL TUNAL,Calle 45 B - 2 ó 5
+H15 PORTAL TUNAL,Avenida 39 A - 2 ó 5
+H15 PORTAL TUNAL,Calle 22 C - 2
+H15 PORTAL TUNAL,Calle 19 A - 1
+H15 PORTAL TUNAL,Tercer Milenio B - 1
+H15 PORTAL TUNAL,Nariño B - 1
+H15 PORTAL TUNAL,Olaya B - 1
+H15 PORTAL TUNAL,Calle 40 Sur C - 2
+H15 PORTAL TUNAL,Biblioteca A - 1
+H15 PORTAL TUNAL,Parque el Tunal A - 2
+H15 PORTAL TUNAL,Portal Tunal T3
+A52 Las Flores,Portal Sur T6
+A52 Las Flores,Perdomo B - 3
+A52 Las Flores,Venecia B - 3
+A52 Las Flores,General Santander A - 4 ó 6
+A52 Las Flores,NQS - Calle 30 Sur B - 3
+A52 Las Flores,Santa Isabel B - 3
+A52 Las Flores,Calle 76 A - 1
+A52 Las Flores,Calle 72 B - 2 ó 5
+A52 Las Flores,Las Flores A - 4 ó 6
+G52 Portal Sur,Las Flores A - 4 ó 6
+G52 Portal Sur,Calle 72 A - 3
+G52 Portal Sur,Calle 76 A - 3
+G52 Portal Sur,Santa Isabel A - 1
+G52 Portal Sur,NQS - Calle 30 Sur A - 1
+G52 Portal Sur,General Santander A - 1
+G52 Portal Sur,Venecia A - 1 ó 5
+G52 Portal Sur,Perdomo B - 1
+G52 Portal Sur,Portal Sur T6
+A74 Calle 72,Toberín A - 2 ó 5
+A74 Calle 72,Calle 146 B - 2
+A74 Calle 72,Calle 142 B - 2
+A74 Calle 72,Alcalá B - 2 ó 5
+A74 Calle 72,Prado A - 2
+A74 Calle 72,Calle 127 B - 2 ó 5
+A74 Calle 72,Calle 76 C - 2
+A74 Calle 72,Calle 72 B - 2 ó 5
+B10 Cabecera Autopista Norte,Cabecera Calle 80 T5
+B10 Cabecera Autopista Norte,Carrera 90 A - 2
+B10 Cabecera Autopista Norte,Avenida Ciudad de Cali A - 1
+B10 Cabecera Autopista Norte,Carrera 77 B - 1
+B10 Cabecera Autopista Norte,Carrera 53 A - 2
+B10 Cabecera Autopista Norte,Carrera 47 A - 2 ó 5
+B10 Cabecera Autopista Norte,Calle 85 A - 4
+B10 Cabecera Autopista Norte,Virrey A - 4 ó 6
+B10 Cabecera Autopista Norte,Calle 100 B - 4
+B10 Cabecera Autopista Norte,Calle 106 B - 4 ó 6
+B10 Cabecera Autopista Norte,Pepe Sierra A - 4 ó 6
+B10 Cabecera Autopista Norte,Alcalá C - 4 ó 6
+B10 Cabecera Autopista Norte,Calle 146 B - 3
+B10 Cabecera Autopista Norte,Mazurén A - 3
+B10 Cabecera Autopista Norte,Toberín C - 4 ó 6
+B10 Cabecera Autopista Norte,Cabecera Autopista Norte T1
+D10 Cabecera Calle 80,Cabecera Autopista Norte T1
+D10 Cabecera Calle 80,Toberín D - 2
+D10 Cabecera Calle 80,Mazurén C - 1
+D10 Cabecera Calle 80,Calle 146 A - 2 ó 5
+D10 Cabecera Calle 80,Alcalá C - 2 ó 5
+D10 Cabecera Calle 80,Pepe Sierra A - 2 ó 5
+D10 Cabecera Calle 80,Calle 106 A - 2 ó 5
+D10 Cabecera Calle 80,Calle 100 C - 1
+D10 Cabecera Calle 80,Virrey A - 2 ó 5
+D10 Cabecera Calle 80,Calle 85 A - 2 ó 5
+D10 Cabecera Calle 80,Carrera 47 A - 4 ó 6
+D10 Cabecera Calle 80,Carrera 53 A - 4
+D10 Cabecera Calle 80,Carrera 77 B - 4
+D10 Cabecera Calle 80,Avenida Ciudad de Cali A - 3
+D10 Cabecera Calle 80,Carrera 90 A - 4
+D10 Cabecera Calle 80,Cabecera Calle 80 T5
+D10 AVENIDA CALI,Cabecera Autopista Norte T1
+D10 AVENIDA CALI,Toberín D - 2
+D10 AVENIDA CALI,Mazurén C - 1
+D10 AVENIDA CALI,Calle 146 A - 2 ó 5
+D10 AVENIDA CALI,Alcalá C - 2 ó 5
+D10 AVENIDA CALI,Pepe Sierra A - 2 ó 5
+D10 AVENIDA CALI,Calle 106 A - 2 ó 5
+D10 AVENIDA CALI,Calle 100 C - 1
+D10 AVENIDA CALI,Virrey A - 2 ó 5
+D10 AVENIDA CALI,Calle 85 A - 2 ó 5
+D10 AVENIDA CALI,Carrera 47 A - 4 ó 6
+D10 AVENIDA CALI,Carrera 53 A - 4
+D10 AVENIDA CALI,Carrera 77 B - 4
+D10 AVENIDA CALI,Avenida Ciudad de Cali A - 3
+B10 Cabecera Autopista Norte_AC,Avenida Ciudad de Cali A - 3
+B10 Cabecera Autopista Norte_AC,Avenida Ciudad de Cali A - 1
+B10 Cabecera Autopista Norte_AC,Carrera 77 B - 1
+B10 Cabecera Autopista Norte_AC,Carrera 53 A - 2
+B10 Cabecera Autopista Norte_AC,Carrera 47 A - 2 ó 5
+B10 Cabecera Autopista Norte_AC,Calle 85 A - 4
+B10 Cabecera Autopista Norte_AC,Virrey A - 4 ó 6
+B10 Cabecera Autopista Norte_AC,Calle 100 B - 4
+B10 Cabecera Autopista Norte_AC,Calle 106 B - 4 ó 6
+B10 Cabecera Autopista Norte_AC,Pepe Sierra A - 4 ó 6
+B10 Cabecera Autopista Norte_AC,Alcalá C - 4 ó 6
+B10 Cabecera Autopista Norte_AC,Calle 146 B - 3
+B10 Cabecera Autopista Norte_AC,Mazurén A - 3
+B10 Cabecera Autopista Norte_AC,Toberín C - 4 ó 6
+B10 Cabecera Autopista Norte_AC,Cabecera Autopista Norte T1
+B12 P.NORTE,Portal Sur T3
+B12 P.NORTE,Perdomo A - 3 ó 6
+B12 P.NORTE,Madelena A - 3
+B12 P.NORTE,General Santander B - 4 ó 6
+B12 P.NORTE,Santa Isabel A - 3
+B12 P.NORTE,Comuneros A - 4
+B12 P.NORTE,NQS - RICAURTE B - 4 ó 6
+B12 P.NORTE,Av. El Dorado A - 4 ó 6
+B12 P.NORTE,U. Nacional B - 3
+B12 P.NORTE,Simon Bolivar B - 4
+B12 P.NORTE,NQS - Calle 75 A - 4 ó 6
+B12 P.NORTE,Castellana A - 3
+B12 P.NORTE,Calle 100 A - 4 ó 6
+B12 P.NORTE,Calle 127 A - 4 ó 6
+B12 P.NORTE,Prado A - 3
+B12 P.NORTE,Calle 142 A - 4
+B12 P.NORTE,Toberín C - 4 ó 6
+B12 P.NORTE,Cabecera Autopista Norte T2
+G12 P. SUR,Cabecera Autopista Norte T2
+G12 P. SUR,Toberín B - 2 ó 5
+G12 P. SUR,Calle 142 A - 2
+G12 P. SUR,Prado C - 1
+G12 P. SUR,Calle 127 A - 2 ó 5
+G12 P. SUR,Calle 100 A - 2 ó 5
+G12 P. SUR,Castellana B - 1
+G12 P. SUR,NQS - Calle 75 B - 2 ó 5
+G12 P. SUR,Simon Bolivar A - 2
+G12 P. SUR,U. Nacional C - 1
+G12 P. SUR,Av. El Dorado A - 2 ó 5
+G12 P. SUR,NQS - RICAURTE C - 1
+G12 P. SUR,Comuneros A - 2
+G12 P. SUR,Santa Isabel A - 1
+G12 P. SUR,General Santander A - 2 ó 5
+G12 P. SUR,Madelena A - 1
+G12 P. SUR,Perdomo A - 1 ó 5
+G12 P. SUR,Portal Sur T3
+B12 P.NORTE_GS,General Santander A - 2 ó 5
+B12 P.NORTE_GS,General Santander B - 4 ó 6
+B12 P.NORTE_GS,Santa Isabel A - 3
+B12 P.NORTE_GS,Comuneros A - 4
+B12 P.NORTE_GS,NQS - RICAURTE B - 4 ó 6
+B12 P.NORTE_GS,Av. El Dorado A - 4 ó 6
+B12 P.NORTE_GS,U. Nacional B - 3
+B12 P.NORTE_GS,Simon Bolivar B - 4
+B12 P.NORTE_GS,NQS - Calle 75 A - 4 ó 6
+B12 P.NORTE_GS,Castellana A - 3
+B12 P.NORTE_GS,Calle 100 A - 4 ó 6
+B12 P.NORTE_GS,Calle 127 A - 4 ó 6
+B12 P.NORTE_GS,Prado A - 3
+B12 P.NORTE_GS,Calle 142 A - 4
+B12 P.NORTE_GS,Toberín C - 4 ó 6
+B12 P.NORTE_GS,Cabecera Autopista Norte T2
+G12 G.SANTANDER,Cabecera Autopista Norte T2
+G12 G.SANTANDER,Toberín B - 2 ó 5
+G12 G.SANTANDER,Calle 142 A - 2
+G12 G.SANTANDER,Prado C - 1
+G12 G.SANTANDER,Calle 127 B - 1
+G12 G.SANTANDER,Calle 100 A - 2 ó 5
+G12 G.SANTANDER,Castellana B - 1
+G12 G.SANTANDER,NQS - Calle 75 B - 2 ó 5
+G12 G.SANTANDER,Simon Bolivar A - 2
+G12 G.SANTANDER,U. Nacional C - 1
+G12 G.SANTANDER,Av. El Dorado A - 2 ó 5
+G12 G.SANTANDER,NQS - RICAURTE C - 1
+G12 G.SANTANDER,Comuneros A - 2
+G12 G.SANTANDER,Santa Isabel A - 1
+G12 G.SANTANDER,General Santander A - 2 ó 5
+B13 P. Norte,Portal Tunal T1
+B13 P. Norte,Calle 40 Sur A - 4 ó 6
+B13 P. Norte,Quiroga A - 3
+B13 P. Norte,Restrepo A - 3 ó 6
+B13 P. Norte,Hortúa A - 3 ó 6
+B13 P. Norte,Tercer Milenio A - 4 ó 6
+B13 P. Norte,Calle 22 A - 4 ó 6
+B13 P. Norte,Avenida 39 A - 4 ó 6
+B13 P. Norte,Calle 63 B - 4 ó 6
+B13 P. Norte,Las Flores A - 3
+B13 P. Norte,Calle 85 B - 4 ó 6
+B13 P. Norte,Calle 100 B - 3
+B13 P. Norte,Calle 106 B - 4 ó 6
+B13 P. Norte,Calle 142 B - 4
+B13 P. Norte,Mazurén B - 4
+B13 P. Norte,Cardio Infantíl B - 4
+B13 P. Norte,Cabecera Autopista Norte T6
+H13 P. Tunal,Cabecera Autopista Norte T6
+H13 P. Tunal,Cardio Infantíl A - 2
+H13 P. Tunal,Mazurén C - 1
+H13 P. Tunal,Calle 142 B - 2
+H13 P. Tunal,Calle 106 A - 2 ó 5
+H13 P. Tunal,Calle 100 B - 1
+H13 P. Tunal,Calle 85 C - 2 ó 5
+H13 P. Tunal,Las Flores B - 2 ó 5
+H13 P. Tunal,Calle 63 A - 2 ó 5
+H13 P. Tunal,Avenida 39 B - 2 ó 5
+H13 P. Tunal,Calle 22 C - 2
+H13 P. Tunal,Tercer Milenio C - 2
+H13 P. Tunal,Hortúa B - 1
+H13 P. Tunal,Restrepo B - 1
+H13 P. Tunal,Quiroga A - 2
+H13 P. Tunal,Calle 40 Sur A - 2 ó 5
+H13 P. Tunal,Portal Tunal T1
+B14 P. NORTE_TV86,Transversal 86 B - 4
+B14 P. NORTE_TV86,Transversal 86 B - 2
+B14 P. NORTE_TV86,Banderas T6
+B14 P. NORTE_TV86,Pradera A - 2 ó 5
+B14 P. NORTE_TV86,CDS - Carrera 32 B - 1
+B14 P. NORTE_TV86,La Sabana B - 1
+B14 P. NORTE_TV86,Calle 26 A - 4 ó 6
+B14 P. NORTE_TV86,Profamilia A - 4 ó 6
+B14 P. NORTE_TV86,Calle 45 A - 4 ó 6
+B14 P. NORTE_TV86,Marly A - 4 ó 6
+B14 P. NORTE_TV86,Heroes A - 4 ó 6
+B14 P. NORTE_TV86,Calle 85 B - 4 ó 6
+B14 P. NORTE_TV86,Calle 100 C - 3
+B14 P. NORTE_TV86,Calle 127 B - 4 ó 6
+B14 P. NORTE_TV86,Alcalá B - 4 ó 6
+B14 P. NORTE_TV86,Calle 146 C - 4
+B14 P. NORTE_TV86,Cabecera Autopista Norte T3
+B14 P. NORTE,Portal Américas T3 B
+B14 P. NORTE,Tintal A - 2 ó 5
+B14 P. NORTE,Transversal 86 B - 2
+B14 P. NORTE,Banderas T6
+B14 P. NORTE,Pradera A - 2 ó 5
+B14 P. NORTE,CDS - Carrera 32 B - 1
+B14 P. NORTE,La Sabana B - 1
+B14 P. NORTE,Calle 26 A - 4 ó 6
+B14 P. NORTE,Profamilia A - 4 ó 6
+B14 P. NORTE,Calle 45 A - 4 ó 6
+B14 P. NORTE,Marly A - 4 ó 6
+B14 P. NORTE,Heroes A - 4 ó 6
+B14 P. NORTE,Calle 85 B - 4 ó 6
+B14 P. NORTE,Calle 100 C - 3
+B14 P. NORTE,Calle 127 B - 4 ó 6
+B14 P. NORTE,Alcalá B - 4 ó 6
+B14 P. NORTE,Calle 146 C - 4
+B14 P. NORTE,Cabecera Autopista Norte T3
+F14 Americas,Cabecera Autopista Norte T3
+F14 Americas,Calle 146 B - 2
+F14 Americas,Alcalá A - 2 ó 5
+F14 Americas,Calle 127 A - 2 ó 5
+F14 Americas,Calle 100 C - 2
+F14 Americas,Calle 85 B - 2
+F14 Americas,Heroes A - 1 ó 5
+F14 Americas,Marly B - 2 ó 5
+F14 Americas,Calle 45 C - 2
+F14 Americas,Profamilia C - 2
+F14 Americas,Calle 26 C - 2
+F14 Americas,La Sabana A - 3
+F14 Americas,CDS - Carrera 32 A - 3
+F14 Americas,Pradera A - 3 ó 6
+F14 Americas,Banderas T5
+F14 Americas,Transversal 86 B - 4
+F14 Americas,Tintal A - 4
+F14 Americas,Portal Américas T3 B
+B14 P. NORTE_Banderas,Banderas T5
+B14 P. NORTE_Banderas,Banderas T6
+B14 P. NORTE_Banderas,Pradera A - 2 ó 5
+B14 P. NORTE_Banderas,CDS - Carrera 32 B - 1
+B14 P. NORTE_Banderas,La Sabana B - 1
+B14 P. NORTE_Banderas,Calle 26 A - 4 ó 6
+B14 P. NORTE_Banderas,Profamilia A - 4 ó 6
+B14 P. NORTE_Banderas,Calle 45 A - 4 ó 6
+B14 P. NORTE_Banderas,Marly A - 4 ó 6
+B14 P. NORTE_Banderas,Heroes A - 4 ó 6
+B14 P. NORTE_Banderas,Calle 85 B - 4 ó 6
+B14 P. NORTE_Banderas,Calle 100 C - 3
+B14 P. NORTE_Banderas,Calle 127 B - 4 ó 6
+B14 P. NORTE_Banderas,Alcalá B - 4 ó 6
+B14 P. NORTE_Banderas,Calle 146 C - 4
+B14 P. NORTE_Banderas,Cabecera Autopista Norte T3
+F14 Banderas,Cabecera Autopista Norte T3
+F14 Banderas,Calle 146 B - 2
+F14 Banderas,Alcalá A - 2 ó 5
+F14 Banderas,Calle 127 A - 2 ó 5
+F14 Banderas,Calle 100 C - 2
+F14 Banderas,Calle 85 B - 2
+F14 Banderas,Heroes A - 1 ó 5
+F14 Banderas,Marly B - 2 ó 5
+F14 Banderas,Calle 45 C - 2
+F14 Banderas,Profamilia C - 2
+F14 Banderas,Calle 26 C - 2
+F14 Banderas,La Sabana A - 3
+F14 Banderas,CDS - Carrera 32 A - 3
+F14 Banderas,Pradera A - 3 ó 6
+F14 Banderas,Banderas T5
+B16 TERMINAL,Portal Eldorado T3
+B16 TERMINAL,Modelia B -1 ó 5
+B16 TERMINAL,Av. Rojas A - 2 ó 5
+B16 TERMINAL,El Tiempo B - 1 ó 5
+B16 TERMINAL,Salitre El Greco B - 1 ó 5
+B16 TERMINAL,CAN B - 1 ó 5
+B16 TERMINAL,Quinta Paredes A - 2 ó 5
+B16 TERMINAL,CorLas Ferias B - 1 ó 5
+B16 TERMINAL,Av. El Dorado A - 4 ó 6
+B16 TERMINAL,Av. Chile B - 4 ó 6
+B16 TERMINAL,Pepe Sierra A - 4 ó 6
+B16 TERMINAL,Alcalá C - 4 ó 6
+B16 TERMINAL,Toberín B - 4 ó 6
+B16 TERMINAL,Centro Comercial Santa Fe A - 4 ó 6
+B16 TERMINAL,Terminal A - 4 ó 6
+K16 P. ELDORADO,Terminal A - 4 ó 6
+K16 P. ELDORADO,Terminal A - 2 ó 5
+K16 P. ELDORADO,Centro Comercial Santa Fe A - 2 ó 5
+K16 P. ELDORADO,Toberín C - 2 ó 5
+K16 P. ELDORADO,Alcalá C - 2 ó 5
+K16 P. ELDORADO,Pepe Sierra B - 2 ó 5
+K16 P. ELDORADO,Av. Chile C - 2 ó 5
+K16 P. ELDORADO,Av. El Dorado A - 2 ó 5
+K16 P. ELDORADO,CorLas Ferias B - 4 ó 6
+K16 P. ELDORADO,Quinta Paredes A - 3 ó 6
+K16 P. ELDORADO,CAN B - 4 ó 6
+K16 P. ELDORADO,Salitre El Greco B - 4 ó 6
+K16 P. ELDORADO,El Tiempo B - 4 ó 6
+K16 P. ELDORADO,Av. Rojas A - 3 ó 6
+K16 P. ELDORADO,Modelia B - 4 ó 6
+K16 P. ELDORADO,Portal Eldorado T3
+B27 P. Norte,Portal Tunal T2
+B27 P. Norte,Calle 40 Sur A - 4 ó 6
+B27 P. Norte,Avenida Jimenez A - 4 ó 6
+B27 P. Norte,Marly A - 4 ó 6
+B27 P. Norte,Calle 72 B - 4 ó 6
+B27 P. Norte,Calle 76 A - 4 ó 6
+B27 P. Norte,Calle 85 C - 4 ó 6
+B27 P. Norte,Virrey A - 4 ó 6
+B27 P. Norte,Cabecera Autopista Norte T6
+H27 P. Tunal,Cabecera Autopista Norte T6
+H27 P. Tunal,Virrey B - 2 ó 5
+H27 P. Tunal,Calle 85 C - 2 ó 5
+H27 P. Tunal,Calle 76 A - 2 ó 5
+H27 P. Tunal,Calle 72 A - 2 ó 5
+H27 P. Tunal,Marly A - 2 ó 5
+H27 P. Tunal,Avenida Jimenez A - 2 ó 5
+H27 P. Tunal,Calle 40 Sur A - 2 ó 5
+H27 P. Tunal,Portal Tunal T2
+B28 P. NORTE,Portal Américas T2 A
+B28 P. NORTE,Tintal B - 1
+B28 P. NORTE,Banderas T6
+B28 P. NORTE,Zona Industrial A - 2
+B28 P. NORTE,CDS - Carrera 32 A - 2
+B28 P. NORTE,CAD B - 4 ó 6
+B28 P. NORTE,U. Nacional B - 4 ó 6
+B28 P. NORTE,Simon Bolivar A - 4
+B28 P. NORTE,Av. Chile C - 4 ó 6
+B28 P. NORTE,Castellana B - 4
+B28 P. NORTE,Calle 106 A - 4 ó 6
+B28 P. NORTE,Pepe Sierra B - 4 ó 6
+B28 P. NORTE,Prado C - 4 ó 6
+B28 P. NORTE,Cabecera Autopista Norte T3
+F28 P. AMÉRICAS,Cabecera Autopista Norte T3
+F28 P. AMÉRICAS,Prado C - 1
+F28 P. AMÉRICAS,Pepe Sierra B - 2 ó 5
+F28 P. AMÉRICAS,Calle 106 B - 1
+F28 P. AMÉRICAS,Castellana A - 2
+F28 P. AMÉRICAS,Av. Chile B - 2 ó 5
+F28 P. AMÉRICAS,Simon Bolivar B - 2
+F28 P. AMÉRICAS,U. Nacional B - 1
+F28 P. AMÉRICAS,CAD A - 2 ó 5
+F28 P. AMÉRICAS,CDS - Carrera 32 B - 4
+F28 P. AMÉRICAS,Zona Industrial B - 4
+F28 P. AMÉRICAS,Banderas T5
+F28 P. AMÉRICAS,Tintal B - 4 ó 6
+F28 P. AMÉRICAS,Portal Américas T2 A
+C61 P.SUBA,Cabecera Autopista Norte T4
+C61 P.SUBA,Cardio Infantíl B - 1
+C61 P.SUBA,Calle 142 B - 2
+C61 P.SUBA,Calle 100 B - 1
+C61 P.SUBA,Virrey C - 1
+C61 P.SUBA,Calle 85 B - 2
+C61 P.SUBA,Heroes C - 1
+C61 P.SUBA,RIO NEGRO A - 3
+C61 P.SUBA,Shaio B - 4
+C61 P.SUBA,21 ANGELES B - 4
+C61 P.SUBA,SUBA - TV- 91 B - 4 ó 6
+C61 P.SUBA,La Campiña A - 3
+C61 P.SUBA,Portal Suba T8
+B50 P.NORTE,Portal Suba T8
+B50 P.NORTE,La Campiña A - 2
+B50 P.NORTE,SUBA - TV- 91 B - 1 ó 5
+B50 P.NORTE,21 ANGELES B - 1
+B50 P.NORTE,Shaio A - 2 ó 5
+B50 P.NORTE,RIO NEGRO B - 1
+B50 P.NORTE,Heroes C - 4
+B50 P.NORTE,Calle 85 B - 4 ó 6
+B50 P.NORTE,Virrey C - 4 ó 6
+B50 P.NORTE,Calle 100 B - 4
+B50 P.NORTE,Calle 142 B - 4
+B50 P.NORTE,Cardio Infantíl B - 4
+B50 P.NORTE,Cabecera Autopista Norte T4
+B52 P.NORTE,Portal Américas T3
+B52 P.NORTE,Tintal A - 1
+B52 P.NORTE,Banderas T8
+B52 P.NORTE,Marsella A - 1
+B52 P.NORTE,Avenida 39 A - 4 ó 6
+B52 P.NORTE,Calle 76 C - 3
+B52 P.NORTE,Heroes B - 4
+B52 P.NORTE,Virrey A - 4 ó 6
+B52 P.NORTE,Alcalá A - 4 ó 6
+B52 P.NORTE,Cabecera Autopista Norte T3
+B55 HEROES,Cabecera Calle 80 T4
+B55 HEROES,Carrera 77 B - 1
+B55 HEROES,Heroes C - 4
+B56 HEROES,Portal Suba T8
+B56 HEROES,SUBA - TV- 91 A - 2
+B56 HEROES,Escuela Militar A - 1
+B56 HEROES,Heroes B - 4
+J72 Las Aguas,Cabecera Autopista Norte T1
+J72 Las Aguas,Toberín E - 1
+J72 Las Aguas,Calle 142 B - 1
+J72 Las Aguas,Prado B - 1
+J72 Las Aguas,Calle 100 C - 2
+J72 Las Aguas,Virrey B - 2 ó 5
+J72 Las Aguas,Heroes A - 1 ó 5
+J72 Las Aguas,Calle 76 C - 2
+J72 Las Aguas,Calle 72 A - 2 ó 5
+J72 Las Aguas,Calle 57 C - 2
+J72 Las Aguas,Avenida 39 C- 2
+J72 Las Aguas,Calle 19 C - 2
+J72 Las Aguas,Museo del Oro A - 1
+J72 Las Aguas,Las Aguas A - 1
+B74 P. Norte,Las Aguas A - 1
+B74 P. Norte,Museo del Oro A - 3
+B74 P. Norte,Calle 19 A - 4 ó 6
+B74 P. Norte,Avenida 39 A - 4 ó 6
+B74 P. Norte,Calle 57 A - 4 ó 6
+B74 P. Norte,Calle 72 C - 3
+B74 P. Norte,Calle 76 C - 3
+B74 P. Norte,Heroes B - 4
+B74 P. Norte,Virrey B - 4
+B74 P. Norte,Calle 100 C - 3
+B74 P. Norte,Prado C - 4 ó 6
+B74 P. Norte,Calle 142 B - 4
+B74 P. Norte,Toberín A - 4 ó 6
+B74 P. Norte,Cabecera Autopista Norte T1
+J72 UNIVERSIDADES VALLE,Cabecera Autopista Norte T1
+J72 UNIVERSIDADES VALLE,Toberín E - 1
+J72 UNIVERSIDADES VALLE,Calle 142 B - 1
+J72 UNIVERSIDADES VALLE,Prado B - 1
+J72 UNIVERSIDADES VALLE,Calle 100 C - 2
+J72 UNIVERSIDADES VALLE,Virrey B - 2 ó 5
+J72 UNIVERSIDADES VALLE,Heroes A - 1 ó 5
+J72 UNIVERSIDADES VALLE,Calle 76 C - 2
+J72 UNIVERSIDADES VALLE,Calle 72 A - 2 ó 5
+J72 UNIVERSIDADES VALLE,Calle 57 C - 2
+J72 UNIVERSIDADES VALLE,Avenida 39 C- 2
+J72 UNIVERSIDADES VALLE,Universidades B - 2 ó 5
+B74 P. Norte Valle,Universidades B - 2 ó 5
+B74 P. Norte Valle,Universidades B - 4 ó 6
+B74 P. Norte Valle,Avenida 39 A - 4 ó 6
+B74 P. Norte Valle,Calle 57 A - 4 ó 6
+B74 P. Norte Valle,Calle 72 C - 3
+B74 P. Norte Valle,Calle 76 C - 3
+B74 P. Norte Valle,Heroes B - 4
+B74 P. Norte Valle,Virrey B - 4
+B74 P. Norte Valle,Calle 100 C - 3
+B74 P. Norte Valle,Prado C - 4 ó 6
+B74 P. Norte Valle,Calle 142 B - 4
+B74 P. Norte Valle,Toberín A - 4 ó 6
+B74 P. Norte Valle,Cabecera Autopista Norte T1
+B90 TERMINAL,Portal Sur T5
+B90 TERMINAL,Venecia A - 3 ó 6
+B90 TERMINAL,ALQUERIA A - 3
+B90 TERMINAL,General Santander A - 4 ó 6
+B90 TERMINAL,Sena A - 3 ó 6
+B90 TERMINAL,Santa Isabel A - 3
+B90 TERMINAL,NQS - RICAURTE B - 4 ó 6
+B90 TERMINAL,CAD A - 4 ó 6
+B90 TERMINAL,Av. El Dorado A - 4 ó 6
+B90 TERMINAL,EL CAMPIN A - 4
+B90 TERMINAL,NQS - Calle 75 A - 4 ó 6
+B90 TERMINAL,Castellana A - 3
+B90 TERMINAL,Calle 100 A - 4 ó 6
+B90 TERMINAL,Prado A - 3
+B90 TERMINAL,Alcalá A - 4 ó 6
+B90 TERMINAL,Calle 146 C - 4
+B90 TERMINAL,Cabecera Autopista Norte T2
+B90 TERMINAL,Centro Comercial Santa Fe A - 4 ó 6
+B90 TERMINAL,Terminal A - 4 ó 6
+G90 P. SUR,Terminal A - 4 ó 6
+G90 P. SUR,Terminal A - 2 ó 5
+G90 P. SUR,Centro Comercial Santa Fe A - 2 ó 5
+G90 P. SUR,Cabecera Autopista Norte T4
+G90 P. SUR,Calle 146 B - 2
+G90 P. SUR,Alcalá A - 2 ó 5
+G90 P. SUR,Prado C - 1
+G90 P. SUR,Calle 100 A - 2 ó 5
+G90 P. SUR,Castellana B - 1
+G90 P. SUR,NQS - Calle 75 A - 1
+G90 P. SUR,EL CAMPIN A - 2
+G90 P. SUR,Av. El Dorado A - 2 ó 5
+G90 P. SUR,CAD A - 2 ó 5
+G90 P. SUR,NQS - RICAURTE B - 2 ó 5
+G90 P. SUR,Santa Isabel A - 1
+G90 P. SUR,Sena A - 1 ó 5
+G90 P. SUR,General Santander A - 2 ó 5
+G90 P. SUR,ALQUERIA A - 1
+G90 P. SUR,Venecia B - 1
+G90 P. SUR,Portal Sur T5
+B92 P.NORTE,Cabecera Usme T3
+B92 P.NORTE,Molinos A - 4 ó 6
+B92 P.NORTE,Consuelo B - 4
+B92 P.NORTE,Socorro B - 4
+B92 P.NORTE,Santa Lucía A - 4 ó 6
+B92 P.NORTE,Calle 40 Sur A - 4 ó 6
+B92 P.NORTE,Restrepo A - 3 ó 6
+B92 P.NORTE,Avenida Jimenez A - 4 ó 6
+B92 P.NORTE,Calle 19 A - 4 ó 6
+B92 P.NORTE,Calle 45 A - 4 ó 6
+B92 P.NORTE,Marly A - 4 ó 6
+B92 P.NORTE,Calle 63 A - 4 ó 6
+B92 P.NORTE,Calle 72 A - 4 ó 6
+B92 P.NORTE,Calle 76 C - 3
+B92 P.NORTE,Heroes C - 4
+B92 P.NORTE,Calle 85 B - 4 ó 6
+B92 P.NORTE,Calle 100 C - 4
+B92 P.NORTE,Calle 127 B - 4 ó 6
+B92 P.NORTE,Alcalá B - 4 ó 6
+B92 P.NORTE,Calle 142 B - 4
+B92 P.NORTE,Toberín B - 4 ó 6
+B92 P.NORTE,Cabecera Autopista Norte T5
+H92 P.USME,Cabecera Autopista Norte T5
+H92 P.USME,Toberín E - 1
+H92 P.USME,Calle 142 B - 2
+H92 P.USME,Alcalá B - 2 ó 5
+H92 P.USME,Calle 127 B - 2 ó 5
+H92 P.USME,Calle 100 B - 2
+H92 P.USME,Calle 85 C - 2 ó 5
+H92 P.USME,Heroes B - 2
+H92 P.USME,Calle 76 A - 2 ó 5
+H92 P.USME,Calle 72 A - 2 ó 5
+H92 P.USME,Calle 63 B - 2 ó 5
+H92 P.USME,Marly B - 2 ó 5
+H92 P.USME,Calle 45 A - 2 ó 5
+H92 P.USME,Calle 19 A - 2 ó 5
+H92 P.USME,Avenida Jimenez B - 2 ó 5
+H92 P.USME,Restrepo A - 2 ó 5
+H92 P.USME,Calle 40 Sur B - 2 ó 5
+H92 P.USME,Santa Lucía B - 2 ó 5
+H92 P.USME,Socorro B - 1
+H92 P.USME,Consuelo B - 1
+H92 P.USME,Molinos A - 2 ó 5
+H92 P.USME,Cabecera Usme T3
+B94 Cabecera Autopista Norte,Cabecera Calle 80 T5
+B94 Cabecera Autopista Norte,Carrera 77 B - 1
+B94 Cabecera Autopista Norte,Minuto de Dios A - 2 ó 5
+B94 Cabecera Autopista Norte,Las Ferias A - 2 ó 5
+B94 Cabecera Autopista Norte,Avenida 68 A - 2 ó 5
+B94 Cabecera Autopista Norte,Carrera 53 A - 2
+B94 Cabecera Autopista Norte,Heroes A - 4 ó 6
+B94 Cabecera Autopista Norte,Calle 100 C - 4
+B94 Cabecera Autopista Norte,Alcalá C - 4 ó 6
+B94 Cabecera Autopista Norte,Calle 146 C - 4
+B94 Cabecera Autopista Norte,Toberín C - 4 ó 6
+B94 Cabecera Autopista Norte,Cabecera Autopista Norte T1
+D94 Cabecera Calle 80,Cabecera Autopista Norte T1
+D94 Cabecera Calle 80,Toberín D - 2
+D94 Cabecera Calle 80,Calle 146 C - 1
+D94 Cabecera Calle 80,Alcalá C - 2 ó 5
+D94 Cabecera Calle 80,Calle 100 C - 1
+D94 Cabecera Calle 80,Heroes C - 2
+D94 Cabecera Calle 80,Carrera 53 A - 4
+D94 Cabecera Calle 80,Avenida 68 A - 4 ó 6
+D94 Cabecera Calle 80,Las Ferias A - 4 ó 6
+D94 Cabecera Calle 80,Minuto de Dios A - 4 ó 6
+D94 Cabecera Calle 80,Carrera 77 B - 4
+D94 Cabecera Calle 80,Cabecera Calle 80 T5
+C17 P.Suba_40S,Calle 40 Sur B - 2 ó 5
+C17 P.Suba_40S,Calle 40 Sur C - 3
+C17 P.Suba_40S,Restrepo B - 4
+C17 P.Suba_40S,Hortúa B - 4
+C17 P.Suba_40S,Hospital A - 3
+C17 P.Suba_40S,Avenida Jimenez C - 3
+C17 P.Suba_40S,Marly C - 3
+C17 P.Suba_40S,Calle 57 C - 3
+C17 P.Suba_40S,Las Flores B - 4 ó 6
+C17 P.Suba_40S,Calle 72 B - 4 ó 6
+C17 P.Suba_40S,Calle 76 A - 4 ó 6
+C17 P.Suba_40S,El Polo A - 3
+C17 P.Suba_40S,SAN MARTIN A - 3
+C17 P.Suba_40S,PUENTE LARGO B - 4 ó 6
+C17 P.Suba_40S,Shaio B - 4
+C17 P.Suba_40S,Suba - Av. Avenida Boyaca B - 4
+C17 P.Suba_40S,La Campiña B - 4 ó 6
+C17 P.Suba_40S,Portal Suba T6
+H17 Cl 40 Sur,Portal Suba T6
+H17 Cl 40 Sur,La Campiña B - 1 ó 5
+H17 Cl 40 Sur,Suba - Av. Avenida Boyaca B - 1
+H17 Cl 40 Sur,Shaio B - 1
+H17 Cl 40 Sur,PUENTE LARGO B - 1 ó 5
+H17 Cl 40 Sur,SAN MARTIN A - 2
+H17 Cl 40 Sur,El Polo A - 2 ó 5
+H17 Cl 40 Sur,Calle 76 A - 2 ó 5
+H17 Cl 40 Sur,Calle 72 C - 2
+H17 Cl 40 Sur,Las Flores A - 2 ó 5
+H17 Cl 40 Sur,Calle 57 A - 2 ó 5
+H17 Cl 40 Sur,Marly C - 2
+H17 Cl 40 Sur,Avenida Jimenez B - 2 ó 5
+H17 Cl 40 Sur,Hospital A - 2
+H17 Cl 40 Sur,Hortúa A - 2 ó 5
+H17 Cl 40 Sur,Restrepo A - 2 ó 5
+H17 Cl 40 Sur,Calle 40 Sur B - 2 ó 5
+C17 P. Suba,Cabecera Usme T4
+C17 P. Suba,Molinos B - 3
+C17 P. Suba,Consuelo A - 3
+C17 P. Suba,Santa Lucía A - 3
+C17 P. Suba,Calle 40 Sur C - 3
+C17 P. Suba,Restrepo B - 4
+C17 P. Suba,Hortúa B - 4
+C17 P. Suba,Hospital A - 3
+C17 P. Suba,Avenida Jimenez C - 3
+C17 P. Suba,Marly C - 3
+C17 P. Suba,Calle 57 C - 3
+C17 P. Suba,Las Flores B - 4 ó 6
+C17 P. Suba,Calle 72 B - 4 ó 6
+C17 P. Suba,Calle 76 A - 4 ó 6
+C17 P. Suba,El Polo A - 3
+C17 P. Suba,SAN MARTIN A - 3
+C17 P. Suba,PUENTE LARGO B - 4 ó 6
+C17 P. Suba,Shaio B - 4
+C17 P. Suba,Suba - Av. Avenida Boyaca B - 4
+C17 P. Suba,La Campiña B - 4 ó 6
+C17 P. Suba,Portal Suba T6
+H17 P. Usme,Portal Suba T6
+H17 P. Usme,La Campiña B - 1 ó 5
+H17 P. Usme,Suba - Av. Avenida Boyaca B - 1
+H17 P. Usme,Shaio B - 1
+H17 P. Usme,PUENTE LARGO B - 1 ó 5
+H17 P. Usme,SAN MARTIN A - 2
+H17 P. Usme,El Polo A - 2 ó 5
+H17 P. Usme,Calle 76 A - 2 ó 5
+H17 P. Usme,Calle 72 C - 2
+H17 P. Usme,Las Flores A - 2 ó 5
+H17 P. Usme,Calle 57 A - 2 ó 5
+H17 P. Usme,Marly C - 2
+H17 P. Usme,Avenida Jimenez B - 2 ó 5
+H17 P. Usme,Hospital A - 2
+H17 P. Usme,Hortúa A - 2 ó 5
+H17 P. Usme,Restrepo A - 2 ó 5
+H17 P. Usme,Calle 40 Sur B - 2 ó 5
+H17 P. Usme,Santa Lucía B - 2 ó 5
+H17 P. Usme,Consuelo B - 1
+H17 P. Usme,Molinos B - 1
+H17 P. Usme,Cabecera Usme T4
+C19 P. Suba,Banderas T1
+C19 P. Suba,Banderas T2
+C19 P. Suba,Mandalay - Cr.73 B - 2
+C19 P. Suba,Marsella B - 2
+C19 P. Suba,Carrera 53 B - 2 ó 5
+C19 P. Suba,Zona Industrial B - 1
+C19 P. Suba,NQS - RICAURTE F - 1
+C19 P. Suba,Calle 19 C - 3
+C19 P. Suba,Calle 26 C - 3
+C19 P. Suba,Profamilia C - 3
+C19 P. Suba,Calle 45 C - 3
+C19 P. Suba,Marly C - 3
+C19 P. Suba,Calle 63 A - 4 ó 6
+C19 P. Suba,Calle 72 B - 4 ó 6
+C19 P. Suba,Suba - Calle 95 B - 4
+C19 P. Suba,Suba - Calle 100 B - 4 ó 6
+C19 P. Suba,PUENTE LARGO B - 4 ó 6
+C19 P. Suba,Gratamira B - 4
+C19 P. Suba,SUBA - TV- 91 B - 4 ó 6
+C19 P. Suba,La Campiña B - 4 ó 6
+C19 P. Suba,Portal Suba T4
+F19 Banderas,Portal Suba T4
+F19 Banderas,La Campiña B - 1 ó 5
+F19 Banderas,SUBA - TV- 91 B - 1 ó 5
+F19 Banderas,Gratamira B - 1
+F19 Banderas,PUENTE LARGO A - 2
+F19 Banderas,Suba - Calle 100 B - 1 ó 5
+F19 Banderas,Suba - Calle 95 A - 2
+F19 Banderas,Calle 72 B - 2 ó 5
+F19 Banderas,Calle 63 B - 2 ó 5
+F19 Banderas,Marly B - 2 ó 5
+F19 Banderas,Calle 45 C - 2
+F19 Banderas,Profamilia B - 2 ó 5
+F19 Banderas,Calle 26 B - 2 ó 5
+F19 Banderas,Calle 19 C - 2
+F19 Banderas,NQS - RICAURTE D - 4
+F19 Banderas,Zona Industrial A - 3
+F19 Banderas,Carrera 53 A - 4 ó 6
+F19 Banderas,Marsella B - 4
+F19 Banderas,Mandalay - Cr.73 B - 4
+F19 Banderas,Banderas T1
+G30 PORTAL SUR,Portal Suba T1
+G30 PORTAL SUR,La Campiña A - 2
+G30 PORTAL SUR,SUBA - TV- 91 A - 2
+G30 PORTAL SUR,Suba - Av. Avenida Boyaca A - 2
+G30 PORTAL SUR,Shaio A - 2 ó 5
+G30 PORTAL SUR,PUENTE LARGO A - 2
+G30 PORTAL SUR,Suba - Calle 95 B - 1
+G30 PORTAL SUR,NQS - Calle 75 A - 2 ó 5
+G30 PORTAL SUR,EL CAMPIN A - 2
+G30 PORTAL SUR,U. Nacional A - 2 ó 5
+G30 PORTAL SUR,CAD B - 2 ó 5
+G30 PORTAL SUR,NQS - RICAURTE A - 1
+G30 PORTAL SUR,Santa Isabel B - 1
+G30 PORTAL SUR,NQS - Calle 38A Sur A - 1
+G30 PORTAL SUR,General Santander A - 2 ó 5
+G30 PORTAL SUR,Venecia B - 1
+G30 PORTAL SUR,Portal Sur T1
+C30 PORTAL SUBA,Portal Sur T1
+C30 PORTAL SUBA,Venecia B - 3
+C30 PORTAL SUBA,General Santander B - 4 ó 6
+C30 PORTAL SUBA,NQS - Calle 38A Sur A - 3
+C30 PORTAL SUBA,Santa Isabel B - 3
+C30 PORTAL SUBA,NQS - RICAURTE A - 3
+C30 PORTAL SUBA,CAD A - 4 ó 6
+C30 PORTAL SUBA,U. Nacional C - 3
+C30 PORTAL SUBA,EL CAMPIN B - 4
+C30 PORTAL SUBA,NQS - Calle 75 B - 4 ó 6
+C30 PORTAL SUBA,Suba - Calle 95 A - 3
+C30 PORTAL SUBA,PUENTE LARGO A - 3
+C30 PORTAL SUBA,Shaio A - 3 ó 6
+C30 PORTAL SUBA,Suba - Av. Avenida Boyaca A - 3
+C30 PORTAL SUBA,SUBA - TV- 91 A - 3
+C30 PORTAL SUBA,La Campiña A - 3
+C30 PORTAL SUBA,Portal Suba T1
+C91 P.SUBA,Portal Américas T6
+C91 P.SUBA,Tintal B - 1
+C91 P.SUBA,Banderas T2
+C91 P.SUBA,Pradera A - 2 ó 5
+C91 P.SUBA,Zona Industrial B - 1
+C91 P.SUBA,NQS - RICAURTE F - 1
+C91 P.SUBA,Carrera 22 B - 2 ó 5
+C91 P.SUBA,Avenida Jimenez D - 2
+C91 P.SUBA,Calle 19 C - 3
+C91 P.SUBA,Calle 45 C - 3
+C91 P.SUBA,Marly C - 3
+C91 P.SUBA,Calle 63 C - 3
+C91 P.SUBA,Las Flores A - 4 ó 6
+C91 P.SUBA,Calle 72 C - 3
+C91 P.SUBA,Calle 76 A - 4 ó 6
+C91 P.SUBA,Escuela Militar A - 4
+C91 P.SUBA,Suba - Calle 95 B - 4
+C91 P.SUBA,PUENTE LARGO B - 4 ó 6
+C91 P.SUBA,Shaio B - 4
+C91 P.SUBA,SUBA - TV- 91 B - 4 ó 6
+C91 P.SUBA,La Campiña B - 4 ó 6
+C91 P.SUBA,Portal Suba T6
+F91 P. AMERICAS,Portal Suba T6
+F91 P. AMERICAS,La Campiña B - 1 ó 5
+F91 P. AMERICAS,SUBA - TV- 91 B - 1 ó 5
+F91 P. AMERICAS,Shaio B - 1
+F91 P. AMERICAS,PUENTE LARGO A - 2
+F91 P. AMERICAS,Suba - Calle 95 B - 1
+F91 P. AMERICAS,Escuela Militar A - 2
+F91 P. AMERICAS,Calle 76 C - 2
+F91 P. AMERICAS,Calle 72 C - 2
+F91 P. AMERICAS,Las Flores A - 2 ó 5
+F91 P. AMERICAS,Calle 63 C - 2
+F91 P. AMERICAS,Marly C - 2
+F91 P. AMERICAS,Calle 45 C - 2
+F91 P. AMERICAS,Calle 19 C - 2
+F91 P. AMERICAS,Avenida Jimenez D - 4 ó 6
+F91 P. AMERICAS,Carrera 22 A - 4
+F91 P. AMERICAS,NQS - RICAURTE D - 4
+F91 P. AMERICAS,Zona Industrial A - 3
+F91 P. AMERICAS,Pradera A - 3 ó 6
+F91 P. AMERICAS,Banderas T1
+F91 P. AMERICAS,Tintal A - 4
+F91 P. AMERICAS,Portal Américas T6
+C96 P. SUBA,Portal Sur T1
+C96 P. SUBA,Perdomo A - 3 ó 6
+C96 P. SUBA,Venecia B - 3
+C96 P. SUBA,NQS - Calle 38A Sur A - 3
+C96 P. SUBA,Sena B - 3
+C96 P. SUBA,Santa Isabel B - 3
+C96 P. SUBA,Comuneros A - 4
+C96 P. SUBA,NQS - RICAURTE A - 3
+C96 P. SUBA,CAD B - 4 ó 6
+C96 P. SUBA,EL CAMPIN B - 4
+C96 P. SUBA,Coliseo A - 4
+C96 P. SUBA,Av. Chile B - 4 ó 6
+C96 P. SUBA,Suba - Calle 100 B - 4 ó 6
+C96 P. SUBA,PUENTE LARGO B - 4 ó 6
+C96 P. SUBA,Shaio B - 4
+C96 P. SUBA,Niza - Calle 127 B - 4
+C96 P. SUBA,Suba - Av. Avenida Boyaca B - 4
+C96 P. SUBA,SUBA - TV- 91 B - 4 ó 6
+C96 P. SUBA,Portal Suba T1
+G96 P. SUR,Portal Suba T1
+G96 P. SUR,SUBA - TV- 91 A - 2
+G96 P. SUR,Suba - Av. Avenida Boyaca A - 2
+G96 P. SUR,Niza - Calle 127 A - 2
+G96 P. SUR,Shaio A - 2 ó 5
+G96 P. SUR,PUENTE LARGO A - 2
+G96 P. SUR,Suba - Calle 100 A - 2
+G96 P. SUR,Av. Chile B - 1
+G96 P. SUR,Coliseo B - 2
+G96 P. SUR,EL CAMPIN A - 2
+G96 P. SUR,CAD A - 2 ó 5
+G96 P. SUR,NQS - RICAURTE C - 2 ó 5
+G96 P. SUR,Comuneros A - 2
+G96 P. SUR,Santa Isabel B - 1
+G96 P. SUR,Sena B - 1
+G96 P. SUR,NQS - Calle 38A Sur A - 1
+G96 P. SUR,Venecia B - 1
+G96 P. SUR,Perdomo A - 1 ó 5
+G96 P. SUR,Portal Sur T1
+H20 Cabecera Usme,Cabecera Calle 80 T3
+H20 Cabecera Usme,Avenida Ciudad de Cali A - 2 ó 5
+H20 Cabecera Usme,Granja - Cra.77 C - 2 ó 5
+H20 Cabecera Usme,Avenida Boyaca A - 2 ó 5
+H20 Cabecera Usme,Las Ferias A - 2 ó 5
+H20 Cabecera Usme,Avenida 68 A - 2 ó 5
+H20 Cabecera Usme,El Polo A - 2 ó 5
+H20 Cabecera Usme,Calle 45 A - 2 ó 5
+H20 Cabecera Usme,Profamilia A - 2 ó 5
+H20 Cabecera Usme,Calle 26 A - 2 ó 5
+H20 Cabecera Usme,Calle 19 A - 2 ó 5
+H20 Cabecera Usme,Avenida Jimenez B - 2 ó 5
+H20 Cabecera Usme,Calle 40 Sur B - 2 ó 5
+H20 Cabecera Usme,Santa Lucía B - 2 ó 5
+H20 Cabecera Usme,Molinos B - 2 ó 5
+H20 Cabecera Usme,Cabecera Usme T2
+D20 Cabecera Calle 80,Cabecera Usme T2
+D20 Cabecera Calle 80,Molinos B - 4 ó 6
+D20 Cabecera Calle 80,Santa Lucía B - 4 ó 6
+D20 Cabecera Calle 80,Calle 40 Sur B - 4 ó 6
+D20 Cabecera Calle 80,Avenida Jimenez B - 4 ó 6
+D20 Cabecera Calle 80,Calle 19 A - 3
+D20 Cabecera Calle 80,Calle 26 B - 4 ó 6
+D20 Cabecera Calle 80,Profamilia B - 4 ó 6
+D20 Cabecera Calle 80,Calle 45 B - 4 ó 6
+D20 Cabecera Calle 80,El Polo A - 4 ó 6
+D20 Cabecera Calle 80,Avenida 68 A - 4 ó 6
+D20 Cabecera Calle 80,Las Ferias A - 4 ó 6
+D20 Cabecera Calle 80,Avenida Boyaca A - 4 ó 6
+D20 Cabecera Calle 80,Carrera 77 C - 3 ó 6
+D20 Cabecera Calle 80,Avenida Ciudad de Cali A - 4 ó 6
+D20 Cabecera Calle 80,Cabecera Calle 80 T3
+D22 Cabecera Calle 80,Portal Sur T4
+D22 Cabecera Calle 80,Sevillana B - 3 ó 6
+D22 Cabecera Calle 80,General Santander A - 4 ó 6
+D22 Cabecera Calle 80,Sena A - 3 ó 6
+D22 Cabecera Calle 80,NQS - RICAURTE C - 4 ó 6
+D22 Cabecera Calle 80,Paloquemao B - 4 ó 6
+D22 Cabecera Calle 80,U. Nacional A - 4 ó 6
+D22 Cabecera Calle 80,Av. Chile B - 4 ó 6
+D22 Cabecera Calle 80,NQS - Calle 75 A - 4 ó 6
+D22 Cabecera Calle 80,Carrera 47 A - 4 ó 6
+D22 Cabecera Calle 80,Minuto de Dios A - 4 ó 6
+D22 Cabecera Calle 80,Carrera 77 D - 4 ó 6
+D22 Cabecera Calle 80,Cabecera Calle 80 T4
+G22 Cabecera Calle 80,Cabecera Calle 80 T4
+G22 Cabecera Calle 80,Carrera 77 D - 2 ó 5
+G22 Cabecera Calle 80,Minuto de Dios A - 2 ó 5
+G22 Cabecera Calle 80,Carrera 47 A - 2 ó 5
+G22 Cabecera Calle 80,NQS - Calle 75 B - 2 ó 5
+G22 Cabecera Calle 80,Av. Chile C - 2 ó 5
+G22 Cabecera Calle 80,U. Nacional A - 2 ó 5
+G22 Cabecera Calle 80,Paloquemao B - 2 ó 5
+G22 Cabecera Calle 80,NQS - RICAURTE B - 2 ó 5
+G22 Cabecera Calle 80,Sena A - 1 ó 5
+G22 Cabecera Calle 80,General Santander B - 2 ó 5
+G22 Cabecera Calle 80,Sevillana B - 1 ó 5
+G22 Cabecera Calle 80,Portal Sur T4
+D22 Cabecera Calle 80 BI,Portal Sur T4
+D22 Cabecera Calle 80 BI,Sevillana B - 3 ó 6
+D22 Cabecera Calle 80 BI,General Santander A - 4 ó 6
+D22 Cabecera Calle 80 BI,Sena A - 3 ó 6
+D22 Cabecera Calle 80 BI,NQS - RICAURTE C - 4 ó 6
+D22 Cabecera Calle 80 BI,Paloquemao B - 4 ó 6
+D22 Cabecera Calle 80 BI,U. Nacional A - 4 ó 6
+D22 Cabecera Calle 80 BI,Av. Chile B - 4 ó 6
+D22 Cabecera Calle 80 BI,NQS - Calle 75 A - 4 ó 6
+D22 Cabecera Calle 80 BI,Carrera 47 A - 4 ó 6
+D22 Cabecera Calle 80 BI,Minuto de Dios A - 4 ó 6
+D22 Cabecera Calle 80 BI,Carrera 77 D - 4 ó 6
+D22 Cabecera Calle 80 BI,Cabecera Calle 80 T4
+G22 Cabecera Calle 80 BI,Cabecera Calle 80 T4
+G22 Cabecera Calle 80 BI,Carrera 77 D - 2 ó 5
+G22 Cabecera Calle 80 BI,Minuto de Dios A - 2 ó 5
+G22 Cabecera Calle 80 BI,Carrera 47 A - 2 ó 5
+G22 Cabecera Calle 80 BI,NQS - Calle 75 B - 2 ó 5
+G22 Cabecera Calle 80 BI,Av. Chile C - 2 ó 5
+G22 Cabecera Calle 80 BI,U. Nacional A - 2 ó 5
+G22 Cabecera Calle 80 BI,Paloquemao B - 2 ó 5
+G22 Cabecera Calle 80 BI,NQS - RICAURTE B - 2 ó 5
+G22 Cabecera Calle 80 BI,Sena A - 1 ó 5
+G22 Cabecera Calle 80 BI,General Santander B - 2 ó 5
+G22 Cabecera Calle 80 BI,Sevillana B - 1 ó 5
+G22 Cabecera Calle 80 BI,Portal Sur T4
+D95 Cabecera Calle 80,Universidades B - 2 ó 5
+D95 Cabecera Calle 80,Universidades B - 4 ó 6
+D95 Cabecera Calle 80,Calle 26 A - 4 ó 6
+D95 Cabecera Calle 80,Profamilia A - 4 ó 6
+D95 Cabecera Calle 80,Calle 45 A - 4 ó 6
+D95 Cabecera Calle 80,Marly B - 4 ó 6
+D95 Cabecera Calle 80,Calle 57 B - 4 ó 6
+D95 Cabecera Calle 80,Calle 63 B - 4 ó 6
+D95 Cabecera Calle 80,Calle 72 B - 4 ó 6
+D95 Cabecera Calle 80,Calle 76 B - 3
+D95 Cabecera Calle 80,Escuela Militar B - 4 ó 6
+D95 Cabecera Calle 80,Avenida Boyaca A - 4 ó 6
+D95 Cabecera Calle 80,Carrera 77 C - 3 ó 6
+D95 Cabecera Calle 80,Avenida Ciudad de Cali A - 4 ó 6
+D95 Cabecera Calle 80,Quirigua A - 4 ó 6
+D95 Cabecera Calle 80,Cabecera Calle 80 T3
+J95 UNIVERSIDADES,Cabecera Calle 80 T3
+J95 UNIVERSIDADES,Quirigua A - 2 ó 5
+J95 UNIVERSIDADES,Avenida Ciudad de Cali A - 2 ó 5
+J95 UNIVERSIDADES,Granja - Cra.77 C - 2 ó 5
+J95 UNIVERSIDADES,Avenida Boyaca A - 2 ó 5
+J95 UNIVERSIDADES,Escuela Militar B - 2 ó 5
+J95 UNIVERSIDADES,Calle 76 B - 2 ó 5
+J95 UNIVERSIDADES,Calle 72 A - 2 ó 5
+J95 UNIVERSIDADES,Calle 63 A - 2 ó 5
+J95 UNIVERSIDADES,Calle 57 A - 2 ó 5
+J95 UNIVERSIDADES,Marly B - 2 ó 5
+J95 UNIVERSIDADES,Calle 45 A - 2 ó 5
+J95 UNIVERSIDADES,Profamilia A - 2 ó 5
+J95 UNIVERSIDADES,Calle 26 A - 2 ó 5
+J95 UNIVERSIDADES,Universidades B - 2 ó 5
+E32 NQS-CL 75,Portal Américas T2 B
+E32 NQS-CL 75,Banderas T6
+E32 NQS-CL 75,CAD B - 4 ó 6
+E32 NQS-CL 75,Simon Bolivar A - 4
+E32 NQS-CL 75,Av. Chile C - 4 ó 6
+E32 NQS-CL 75,NQS - Calle 75 B - 4 ó 6
+F32 P.AMERICAS,NQS - Calle 75 B - 4 ó 6
+F32 P.AMERICAS,NQS - Calle 75 A - 2 ó 5
+F32 P.AMERICAS,Av. Chile B - 2 ó 5
+F32 P.AMERICAS,Simon Bolivar B - 2
+F32 P.AMERICAS,CAD A - 2 ó 5
+F32 P.AMERICAS,Banderas T5
+F32 P.AMERICAS,Portal Américas T2 B
+J23 Las Aguas,Portal Américas T6
+J23 Las Aguas,Patio Bonito A - 2 ó 5
+J23 Las Aguas,Banderas T4
+J23 Las Aguas,Mundo Aventura A - 2 ó 5
+J23 Las Aguas,NQS - RICAURTE E - 2 ó 5
+J23 Las Aguas,Carrera 22 B - 2 ó 5
+J23 Las Aguas,Avenida Jimenez E - 2 ó 5
+J23 Las Aguas,Museo del Oro A - 2 ó 5
+J23 Las Aguas,Las Aguas A - 2 ó 5
+F23 Américas,Las Aguas A - 2 ó 5
+F23 Américas,Museo del Oro A - 4 ó 6
+F23 Américas,Avenida Jimenez D - 4 ó 6
+F23 Américas,Carrera 22 B - 4 ó 6
+F23 Américas,NQS - RICAURTE E -4 ó 6
+F23 Américas,Mundo Aventura A - 4 ó 6
+F23 Américas,Banderas T3
+F23 Américas,Patio Bonito B - 4 ó 6
+F23 Américas,Portal Américas T6
+J23 Banderas,Banderas T3
+J23 Banderas,Banderas T4
+J23 Banderas,Mundo Aventura A - 2 ó 5
+J23 Banderas,NQS - RICAURTE E - 2 ó 5
+J23 Banderas,Carrera 22 B - 2 ó 5
+J23 Banderas,Avenida Jimenez E - 2 ó 5
+J23 Banderas,Museo del Oro A - 2 ó 5
+J23 Banderas,Las Aguas A - 2 ó 5
+F23 Banderas,Las Aguas A - 2 ó 5
+F23 Banderas,Museo del Oro A - 4 ó 6
+F23 Banderas,Avenida Jimenez D - 4 ó 6
+F23 Banderas,Carrera 22 B - 4 ó 6
+F23 Banderas,NQS - RICAURTE E -4 ó 6
+F23 Banderas,Mundo Aventura A - 4 ó 6
+F23 Banderas,Banderas T3
+F62 Americas,Cabecera Calle 80 T1
+F62 Americas,Carrera 77 A - 2
+F62 Americas,Minuto de Dios A - 2 ó 5
+F62 Americas,Calle 76 C - 2
+F62 Americas,Calle 72 B - 2 ó 5
+F62 Americas,Calle 57 C - 2
+F62 Americas,Calle 45 C - 2
+F62 Americas,Avenida 39 C- 2
+F62 Americas,Profamilia C - 2
+F62 Americas,Calle 26 C - 2
+F62 Americas,Banderas T7
+F62 Americas,Portal Américas T7
+D50 P. 80,Portal Américas T7
+D50 P. 80,Calle 26 B - 4 ó 6
+D50 P. 80,Profamilia B - 4 ó 6
+D50 P. 80,Calle 45 B - 4 ó 6
+D50 P. 80,Calle 57 B - 4 ó 6
+D50 P. 80,Calle 72 A - 4 ó 6
+D50 P. 80,Calle 76 B - 3
+D50 P. 80,Minuto de Dios A - 4 ó 6
+D50 P. 80,Carrera 77 A - 3
+D50 P. 80,Cabecera Calle 80 T1
+B11 Terminal,Portal Sur T5
+B11 Terminal,Venecia B - 3
+B11 Terminal,ALQUERIA A - 3
+B11 Terminal,Sena B - 3
+B11 Terminal,NQS - RICAURTE B - 3
+B11 Terminal,Paloquemao A - 4 ó 6
+B11 Terminal,EL CAMPIN A - 4
+B11 Terminal,Escuela Militar A - 1
+B11 Terminal,Heroes C - 4
+B11 Terminal,Calle 85 C - 4 ó 6
+B11 Terminal,Virrey B - 4
+B11 Terminal,Calle 106 B - 4 ó 6
+B11 Terminal,Pepe Sierra B - 4 ó 6
+B11 Terminal,Calle 146 A - 4 ó 6
+B11 Terminal,Mazurén B - 4
+B11 Terminal,Toberín B - 4 ó 6
+B11 Terminal,Centro Comercial Santa Fe A - 3
+B11 Terminal,Terminal A - 3
+G11 P. Sur,Terminal A - 3
+G11 P. Sur,Terminal A - 1
+G11 P. Sur,Centro Comercial Santa Fe A - 1
+G11 P. Sur,Toberín B - 2 ó 5
+G11 P. Sur,Mazurén A - 2 ó 5
+G11 P. Sur,Calle 146 A - 2 ó 5
+G11 P. Sur,Pepe Sierra A - 2 ó 5
+G11 P. Sur,Calle 106 B - 2 ó 5
+G11 P. Sur,Virrey C - 2
+G11 P. Sur,Calle 85 A - 2 ó 5
+G11 P. Sur,Heroes C - 2
+G11 P. Sur,Escuela Militar B - 4 ó 6
+G11 P. Sur,EL CAMPIN A - 2
+G11 P. Sur,Paloquemao A - 2 ó 5
+G11 P. Sur,NQS - RICAURTE C - 2 ó 5
+G11 P. Sur,Sena B - 1
+G11 P. Sur,ALQUERIA A - 1
+G11 P. Sur,Venecia B - 1
+G11 P. Sur,Portal Sur T5
+D21 Cabecera Calle 80,Portal Tunal T4
+D21 Cabecera Calle 80,Parque el Tunal A - 3
+D21 Cabecera Calle 80,Biblioteca A - 4
+D21 Cabecera Calle 80,Santa Lucía B - 4 ó 6
+D21 Cabecera Calle 80,Calle 40 Sur B - 4 ó 6
+D21 Cabecera Calle 80,Olaya B - 4
+D21 Cabecera Calle 80,Río Fucha A - 3
+D21 Cabecera Calle 80,Nariño B - 4
+D21 Cabecera Calle 80,Avenida 39 B - 4 ó 6
+D21 Cabecera Calle 80,Marly B - 4 ó 6
+D21 Cabecera Calle 80,Calle 57 B - 4 ó 6
+D21 Cabecera Calle 80,Calle 63 C - 3
+D21 Cabecera Calle 80,Las Flores B - 4 ó 6
+D21 Cabecera Calle 80,Calle 72 A - 4 ó 6
+D21 Cabecera Calle 80,Calle 76 B - 3
+D21 Cabecera Calle 80,Minuto de Dios A - 3
+D21 Cabecera Calle 80,Carrera 77 D - 4 ó 6
+D21 Cabecera Calle 80,Avenida Ciudad de Cali A - 4 ó 6
+D21 Cabecera Calle 80,Carrera 90 A - 3
+D21 Cabecera Calle 80,Quirigua A - 4 ó 6
+D21 Cabecera Calle 80,Cabecera Calle 80 T2
+H21 Portal Tunal,Cabecera Calle 80 T2
+H21 Portal Tunal,Quirigua A - 2 ó 5
+H21 Portal Tunal,Carrera 90 A - 1
+H21 Portal Tunal,Avenida Ciudad de Cali A - 2 ó 5
+H21 Portal Tunal,Carrera 77 D - 2 ó 5
+H21 Portal Tunal,Minuto de Dios A - 1
+H21 Portal Tunal,Calle 76 B - 2 ó 5
+H21 Portal Tunal,Calle 72 A - 2 ó 5
+H21 Portal Tunal,Las Flores B - 2 ó 5
+H21 Portal Tunal,Calle 63 A - 2 ó 5
+H21 Portal Tunal,Calle 57 B - 2 ó 5
+H21 Portal Tunal,Marly A - 2 ó 5
+H21 Portal Tunal,Avenida 39 A - 2 ó 5
+H21 Portal Tunal,Nariño B - 1
+H21 Portal Tunal,Río Fucha A - 2
+H21 Portal Tunal,Olaya A - 2
+H21 Portal Tunal,Calle 40 Sur A - 2 ó 5
+H21 Portal Tunal,Santa Lucía A - 2 ó 5
+H21 Portal Tunal,Biblioteca A - 2
+H21 Portal Tunal,Parque el Tunal A - 1
+H21 Portal Tunal,Portal Tunal T4
+D21 Avenida Cali,Portal Tunal T4
+D21 Avenida Cali,Parque el Tunal A - 3
+D21 Avenida Cali,Biblioteca A - 4
+D21 Avenida Cali,Santa Lucía B - 4 ó 6
+D21 Avenida Cali,Calle 40 Sur B - 4 ó 6
+D21 Avenida Cali,Olaya B - 4
+D21 Avenida Cali,Río Fucha A - 3
+D21 Avenida Cali,Nariño B - 4
+D21 Avenida Cali,Avenida 39 B - 4 ó 6
+D21 Avenida Cali,Marly B - 4 ó 6
+D21 Avenida Cali,Calle 57 B - 4 ó 6
+D21 Avenida Cali,Calle 63 C - 3
+D21 Avenida Cali,Las Flores B - 4 ó 6
+D21 Avenida Cali,Calle 72 A - 4 ó 6
+D21 Avenida Cali,Calle 76 B - 3
+D21 Avenida Cali,Minuto de Dios A - 3
+D21 Avenida Cali,Carrera 77 D - 4 ó 6
+D21 Avenida Cali,Avenida Ciudad de Cali A - 4 ó 6
+H21 Portal Tunal,Avenida Ciudad de Cali A - 4 ó 6
+H21 Portal Tunal,Avenida Ciudad de Cali A - 2 ó 5
+H21 Portal Tunal,Carrera 77 D - 2 ó 5
+H21 Portal Tunal,Minuto de Dios A - 1
+H21 Portal Tunal,Calle 76 B - 2 ó 5
+H21 Portal Tunal,Calle 72 A - 2 ó 5
+H21 Portal Tunal,Las Flores B - 2 ó 5
+H21 Portal Tunal,Calle 63 A - 2 ó 5
+H21 Portal Tunal,Calle 57 B - 2 ó 5
+H21 Portal Tunal,Marly A - 2 ó 5
+H21 Portal Tunal,Avenida 39 A - 2 ó 5
+H21 Portal Tunal,Nariño B - 1
+H21 Portal Tunal,Río Fucha A - 2
+H21 Portal Tunal,Olaya A - 2
+H21 Portal Tunal,Calle 40 Sur A - 2 ó 5
+H21 Portal Tunal,Santa Lucía A - 2 ó 5
+H21 Portal Tunal,Biblioteca A - 2
+H21 Portal Tunal,Parque el Tunal A - 1
+H21 Portal Tunal,Portal Tunal T4
+D21 Cabecera Calle 80 40S,Calle 40 Sur A - 2 ó 5
+D21 Cabecera Calle 80 40S,Calle 40 Sur B - 4 ó 6
+D21 Cabecera Calle 80 40S,Olaya B - 4
+D21 Cabecera Calle 80 40S,Río Fucha A - 3
+D21 Cabecera Calle 80 40S,Nariño B - 4
+D21 Cabecera Calle 80 40S,Avenida 39 B - 4 ó 6
+D21 Cabecera Calle 80 40S,Marly B - 4 ó 6
+D21 Cabecera Calle 80 40S,Calle 57 B - 4 ó 6
+D21 Cabecera Calle 80 40S,Calle 63 C - 3
+D21 Cabecera Calle 80 40S,Las Flores B - 4 ó 6
+D21 Cabecera Calle 80 40S,Calle 72 A - 4 ó 6
+D21 Cabecera Calle 80 40S,Calle 76 B - 3
+D21 Cabecera Calle 80 40S,Minuto de Dios A - 3
+D21 Cabecera Calle 80 40S,Carrera 77 D - 4 ó 6
+D21 Cabecera Calle 80 40S,Avenida Ciudad de Cali A - 4 ó 6
+D21 Cabecera Calle 80 40S,Carrera 90 A - 3
+D21 Cabecera Calle 80 40S,Quirigua A - 4 ó 6
+D21 Cabecera Calle 80 40S,Cabecera Calle 80 T2
+H21 Calle 40 Sur,Cabecera Calle 80 T2
+H21 Calle 40 Sur,Quirigua A - 2 ó 5
+H21 Calle 40 Sur,Carrera 90 A - 1
+H21 Calle 40 Sur,Avenida Ciudad de Cali A - 2 ó 5
+H21 Calle 40 Sur,Carrera 77 D - 2 ó 5
+H21 Calle 40 Sur,Minuto de Dios A - 1
+H21 Calle 40 Sur,Calle 76 B - 2 ó 5
+H21 Calle 40 Sur,Calle 72 A - 2 ó 5
+H21 Calle 40 Sur,Las Flores B - 2 ó 5
+H21 Calle 40 Sur,Calle 63 A - 2 ó 5
+H21 Calle 40 Sur,Calle 57 B - 2 ó 5
+H21 Calle 40 Sur,Marly A - 2 ó 5
+H21 Calle 40 Sur,Avenida 39 A - 2 ó 5
+H21 Calle 40 Sur,Nariño B - 1
+H21 Calle 40 Sur,Río Fucha A - 2
+H21 Calle 40 Sur,Olaya A - 2
+H21 Calle 40 Sur,Calle 40 Sur A - 2 ó 5
+H51 P. Usme,Cabecera Autopista Norte T5
+H51 P. Usme,Mazurén C - 1
+H51 P. Usme,Calle 146 C - 1
+H51 P. Usme,Pepe Sierra B - 2 ó 5
+H51 P. Usme,Calle 76 A - 2 ó 5
+H51 P. Usme,Calle 72 C - 2
+H51 P. Usme,Calle 57 A - 2 ó 5
+H51 P. Usme,Santa Lucía B - 2 ó 5
+H51 P. Usme,Socorro A - 2
+H51 P. Usme,Consuelo A - 2
+H51 P. Usme,Molinos B - 2 ó 5
+H51 P. Usme,Cabecera Usme T5
+B71 P.NORTE,Portal Tunal T1
+B71 P.NORTE,Santa Lucía A - 4 ó 6
+B71 P.NORTE,Calle 40 Sur C - 3
+B71 P.NORTE,Olaya A - 3
+B71 P.NORTE,Restrepo B - 4
+B71 P.NORTE,Hortúa A - 3 ó 6
+B71 P.NORTE,Tygua - San José B - 4 ó 6
+B71 P.NORTE,Guatoque -Veraguas B - 4 ó 6
+B71 P.NORTE,Paloquemao A - 3
+B71 P.NORTE,Heroes B - 4
+B71 P.NORTE,Calle 85 C - 3
+B71 P.NORTE,Virrey B - 4
+B71 P.NORTE,Calle 100 C - 4
+B71 P.NORTE,Prado B - 4
+B71 P.NORTE,Alcalá C - 4 ó 6
+B71 P.NORTE,Calle 146 A - 4 ó 6
+B71 P.NORTE,Toberín A - 4 ó 6
+B71 P.NORTE,Cabecera Autopista Norte T5
+H61 P.USME,Toberín A - 2 ó 5
+H61 P.USME,Alcalá B - 2 ó 5
+H61 P.USME,Calle 127 B - 2 ó 5
+H61 P.USME,Pepe Sierra B - 2 ó 5
+H61 P.USME,Castellana A - 2
+H61 P.USME,Av. Chile C - 2 ó 5
+H61 P.USME,Coliseo A - 2
+H61 P.USME,Paloquemao B - 1
+H61 P.USME,Guatoque -Veraguas B - 1 ó 5
+H61 P.USME,Tygua - San José B - 1 ó 5
+H61 P.USME,Nariño A - 2
+H61 P.USME,Río Fucha A - 2
+H61 P.USME,Olaya A - 2
+H61 P.USME,Molinos A - 2 ó 5
+H61 P.USME,Cabecera Usme T5
+B72 TOBERIN,Cabecera Usme T5
+B72 TOBERIN,Molinos A - 4 ó 6
+B72 TOBERIN,Olaya A - 3
+B72 TOBERIN,Río Fucha A - 3
+B72 TOBERIN,Nariño A - 3
+B72 TOBERIN,Tygua - San José B - 4 ó 6
+B72 TOBERIN,Guatoque -Veraguas B - 4 ó 6
+B72 TOBERIN,Paloquemao A - 4 ó 6
+B72 TOBERIN,Coliseo B - 4
+B72 TOBERIN,Av. Chile B - 4 ó 6
+B72 TOBERIN,Castellana A - 3
+B72 TOBERIN,Pepe Sierra B - 4 ó 6
+B72 TOBERIN,Calle 127 B - 4 ó 6
+B72 TOBERIN,Alcalá A - 4 ó 6
+B72 TOBERIN,Toberín A - 4 ó 6
+B72 TOBERIN,Toberín A - 2 ó 5
+H73 P. Tunal ,Toberín A - 2 ó 5
+H73 P. Tunal ,Calle 146 C - 1
+H73 P. Tunal ,Alcalá B - 1
+H73 P. Tunal ,Prado A - 2
+H73 P. Tunal ,Calle 127 B - 2 ó 5
+H73 P. Tunal ,Calle 45 B - 2 ó 5
+H73 P. Tunal ,Avenida 39 A - 1
+H73 P. Tunal ,Profamilia A - 2 ó 5
+H73 P. Tunal ,Calle 26 A - 2 ó 5
+H73 P. Tunal ,Calle 19 A - 1
+H73 P. Tunal ,Río Fucha B - 1
+H73 P. Tunal ,Restrepo B - 1
+H73 P. Tunal ,Olaya A - 2
+H73 P. Tunal ,Calle 40 Sur A - 2 ó 5
+H73 P. Tunal ,Portal Tunal T2
+H74 P. Usme ,Cabecera Autopista Norte T5
+H74 P. Usme ,Toberín A - 2 ó 5
+H74 P. Usme ,Calle 146 C - 1
+H74 P. Usme ,Calle 142 B - 2
+H74 P. Usme ,Alcalá B - 2 ó 5
+H74 P. Usme ,Prado A - 2
+H74 P. Usme ,Calle 127 B - 2 ó 5
+H74 P. Usme ,Calle 100 B - 2
+H74 P. Usme ,Heroes B - 2
+H74 P. Usme ,Calle 76 A - 2 ó 5
+H74 P. Usme ,Calle 72 C - 2
+H74 P. Usme ,Calle 63 C - 2
+H74 P. Usme ,Marly C - 2
+H74 P. Usme ,Avenida Jimenez B - 2 ó 5
+H74 P. Usme ,Hortúa A - 2 ó 5
+H74 P. Usme ,Nariño A - 2
+H74 P. Usme ,Restrepo A - 2 ó 5
+H74 P. Usme ,Calle 40 Sur B - 2 ó 5
+H74 P. Usme ,Santa Lucía B - 2 ó 5
+H74 P. Usme ,Socorro B - 1
+H74 P. Usme ,Consuelo B - 1
+H74 P. Usme ,Molinos A - 1
+H74 P. Usme ,Cabecera Usme T6
+B73 P. Norte ,Cabecera Usme T6
+B73 P. Norte ,Molinos A - 3
+B73 P. Norte ,Consuelo B - 4
+B73 P. Norte ,Socorro B - 4
+B73 P. Norte ,Santa Lucía A - 4 ó 6
+B73 P. Norte ,Calle 40 Sur A - 4 ó 6
+B73 P. Norte ,Restrepo A - 3 ó 6
+B73 P. Norte ,Nariño A - 3
+B73 P. Norte ,Hortúa A - 3 ó 6
+B73 P. Norte ,Avenida Jimenez A - 4 ó 6
+B73 P. Norte ,Marly A - 4 ó 6
+B73 P. Norte ,Calle 63 B - 4 ó 6
+B73 P. Norte ,Calle 72 C - 3
+B73 P. Norte ,Calle 76 C - 3
+B73 P. Norte ,Heroes C - 4
+B73 P. Norte ,Calle 100 B - 4
+B73 P. Norte ,Calle 127 B - 4 ó 6
+B73 P. Norte ,Prado C - 4 ó 6
+B73 P. Norte ,Alcalá B - 4 ó 6
+B73 P. Norte ,Calle 142 B - 4
+B73 P. Norte ,Calle 146 A - 4 ó 6
+B73 P. Norte ,Toberín C - 4 ó 6
+B73 P. Norte ,Cabecera Autopista Norte T5
+J24 UNIVERSIDADES,Cabecera Calle 80 T1
+J24 UNIVERSIDADES,Carrera 77 A - 2
+J24 UNIVERSIDADES,Avenida 68 A - 2 ó 5
+J24 UNIVERSIDADES,Escuela Militar B - 1
+J24 UNIVERSIDADES,El Polo A - 2 ó 5
+J24 UNIVERSIDADES,Calle 57 C - 2
+J24 UNIVERSIDADES,Avenida 39 C- 2
+J24 UNIVERSIDADES,Calle 26 A - 2 ó 5
+J24 UNIVERSIDADES,Universidades A - 2 ó 5
+D70 P.80,Universidades A - 2 ó 5
+D70 P.80,Universidades A - 4 ó 6
+D70 P.80,Calle 26 B - 4 ó 6
+D70 P.80,Avenida 39 B - 3
+D70 P.80,Calle 57 B - 4 ó 6
+D70 P.80,El Polo A - 4 ó 6
+D70 P.80,Escuela Militar A - 3
+D70 P.80,Avenida 68 A - 4 ó 6
+D70 P.80,Carrera 77 A - 3
+D70 P.80,Cabecera Calle 80 T1
+J70 Las Aguas,Cabecera Autopista Norte T1
+J70 Las Aguas,Toberín E - 1
+J70 Las Aguas,Calle 146 A - 2 ó 5
+J70 Las Aguas,Calle 142 B - 1
+J70 Las Aguas,Alcalá C - 2 ó 5
+J70 Las Aguas,Prado B - 1
+J70 Las Aguas,Calle 127 B - 2 ó 5
+J70 Las Aguas,Avenida Jimenez D - 2
+J70 Las Aguas,Museo del Oro A - 1
+J70 Las Aguas,Las Aguas A - 1
+C73 P.SUBA,Universidades A - 1
+C73 P.SUBA,Universidades A - 3
+C73 P.SUBA,Ciudad Universitaria B - 1
+C73 P.SUBA,SAN MARTIN A - 3
+C73 P.SUBA,PUENTE LARGO B - 4 ó 6
+C73 P.SUBA,Niza - Calle 127 A - 3
+C73 P.SUBA,Suba - Av. Avenida Boyaca B - 4
+C73 P.SUBA,SUBA - TV- 91 A - 3
+C73 P.SUBA,La Campiña A - 3
+C73 P.SUBA,Portal Suba T7
+J73 UNIVERSIDADES,Portal Suba T7
+J73 UNIVERSIDADES,La Campiña B - 1 ó 5
+J73 UNIVERSIDADES,SUBA - TV- 91 B - 1 ó 5
+J73 UNIVERSIDADES,Suba - Av. Avenida Boyaca A - 2
+J73 UNIVERSIDADES,Niza - Calle 127 A - 2
+J73 UNIVERSIDADES,PUENTE LARGO A - 2
+J73 UNIVERSIDADES,SAN MARTIN B - 1
+J73 UNIVERSIDADES,Ciudad Universitaria B - 3
+J73 UNIVERSIDADES,Universidades A - 1
+L10 P. 20 DE JULIO,Portal Eldorado T5
+L10 P. 20 DE JULIO,Modelia A - 2 ó 5
+L10 P. 20 DE JULIO,Normandía B - 2 ó 5
+L10 P. 20 DE JULIO,Salitre El Greco A - 2 ó 5
+L10 P. 20 DE JULIO,CAN A - 2 ó 5
+L10 P. 20 DE JULIO,Gobernación A - 2 ó 5
+L10 P. 20 DE JULIO,Ciudad Universitaria B - 2 ó 5
+L10 P. 20 DE JULIO,Centro Memoria B - 2 ó 5
+L10 P. 20 DE JULIO,Calle 22 A - 2 ó 5
+L10 P. 20 DE JULIO,Avenida Jimenez A - 2 ó 5
+L10 P. 20 DE JULIO,Tercer Milenio A - 2 ó 5
+L10 P. 20 DE JULIO,Bicentenario C - 2 ó 5
+L10 P. 20 DE JULIO,Hospitales A - 2 ó 5
+L10 P. 20 DE JULIO,Ciudad Jardín-UAN A - 2 ó 5
+L10 P. 20 DE JULIO,Av. Primero de Mayo A - 2 ó 5
+L10 P. 20 DE JULIO,PORTAL 20 DE JULIO T3
+K10 P. ELDORADO,PORTAL 20 DE JULIO T3
+K10 P. ELDORADO,Av. Primero de Mayo A - 4 ó 6
+K10 P. ELDORADO,Ciudad Jardín-UAN A - 3 ó 6
+K10 P. ELDORADO,Hospitales A - 3 ó 6
+K10 P. ELDORADO,Bicentenario C - 4 ó 6
+K10 P. ELDORADO,Tercer Milenio B - 4 ó 6
+K10 P. ELDORADO,Avenida Jimenez A - 4 ó 6
+K10 P. ELDORADO,Calle 22 A - 4 ó 6
+K10 P. ELDORADO,Centro Memoria B - 4 ó 6
+K10 P. ELDORADO,Ciudad Universitaria A - 4 ó 6
+K10 P. ELDORADO,Gobernación A - 3 ó 6
+K10 P. ELDORADO,CAN A - 3 ó 6
+K10 P. ELDORADO,Salitre El Greco A - 3 ó 6
+K10 P. ELDORADO,Normandía B - 4 ó 6
+K10 P. ELDORADO,Modelia A - 3 ó 6
+K10 P. ELDORADO,Portal Eldorado T5
+L97 P. 20 DE JULIO,Portal Eldorado T5
+L97 P. 20 DE JULIO,Modelia A - 2 ó 5
+L97 P. 20 DE JULIO,Normandía B - 2 ó 5
+L97 P. 20 DE JULIO,Salitre El Greco A - 2 ó 5
+L97 P. 20 DE JULIO,CAN A - 2 ó 5
+L97 P. 20 DE JULIO,Gobernación A - 2 ó 5
+L97 P. 20 DE JULIO,CorLas Ferias A - 2 ó 5
+L97 P. 20 DE JULIO,Ciudad Universitaria B - 2 ó 5
+L97 P. 20 DE JULIO,Centro Memoria B - 2 ó 5
+L97 P. 20 DE JULIO,Calle 22 A - 2 ó 5
+L97 P. 20 DE JULIO,Avenida Jimenez A - 2 ó 5
+L97 P. 20 DE JULIO,Tercer Milenio A - 2 ó 5
+L97 P. 20 DE JULIO,Bicentenario C - 2 ó 5
+L97 P. 20 DE JULIO,Hospitales A - 2 ó 5
+L97 P. 20 DE JULIO,Av. Primero de Mayo A - 2 ó 5
+L97 P. 20 DE JULIO,PORTAL 20 DE JULIO T3
+K97 P. ELDORADO,PORTAL 20 DE JULIO T3
+K97 P. ELDORADO,Av. Primero de Mayo A - 4 ó 6
+K97 P. ELDORADO,Hospitales A - 3 ó 6
+K97 P. ELDORADO,Bicentenario C - 4 ó 6
+K97 P. ELDORADO,Tercer Milenio B - 4 ó 6
+K97 P. ELDORADO,Avenida Jimenez A - 4 ó 6
+K97 P. ELDORADO,Calle 22 A - 4 ó 6
+K97 P. ELDORADO,Centro Memoria B - 4 ó 6
+K97 P. ELDORADO,Ciudad Universitaria A - 4 ó 6
+K97 P. ELDORADO,CorLas Ferias A - 3 ó 6
+K97 P. ELDORADO,Gobernación A - 3 ó 6
+K97 P. ELDORADO,CAN A - 3 ó 6
+K97 P. ELDORADO,Salitre El Greco A - 3 ó 6
+K97 P. ELDORADO,Normandía B - 4 ó 6
+K97 P. ELDORADO,Modelia A - 3 ó 6
+K97 P. ELDORADO,Portal Eldorado T5
+F29 PORTAL AMERICAS,Portal Suba T5
+F29 PORTAL AMERICAS,La Campiña B - 1 ó 5
+F29 PORTAL AMERICAS,SUBA - TV- 91 B - 1 ó 5
+F29 PORTAL AMERICAS,Shaio A - 2 ó 5
+F29 PORTAL AMERICAS,PUENTE LARGO B - 1 ó 5
+F29 PORTAL AMERICAS,Suba - Calle 100 B - 1 ó 5
+F29 PORTAL AMERICAS,Calle 72 B - 2 ó 5
+F29 PORTAL AMERICAS,Calle 63 B - 2 ó 5
+F29 PORTAL AMERICAS,Profamilia B - 2 ó 5
+F29 PORTAL AMERICAS,Calle 26 B - 2 ó 5
+F29 PORTAL AMERICAS,Banderas T1
+F29 PORTAL AMERICAS,Tintal B - 4 ó 6
+F29 PORTAL AMERICAS,Patio Bonito B - 4 ó 6
+F29 PORTAL AMERICAS,Portal Américas T9
+C29 PORTAL SUBA ,Portal Américas T9
+C29 PORTAL SUBA ,Patio Bonito A - 2 ó 5
+C29 PORTAL SUBA ,Tintal A - 2 ó 5
+C29 PORTAL SUBA ,Banderas T2
+C29 PORTAL SUBA ,Calle 26 B - 4 ó 6
+C29 PORTAL SUBA ,Profamilia B - 4 ó 6
+C29 PORTAL SUBA ,Calle 63 A - 4 ó 6
+C29 PORTAL SUBA ,Calle 72 B - 4 ó 6
+C29 PORTAL SUBA ,Suba - Calle 100 B - 4 ó 6
+C29 PORTAL SUBA ,PUENTE LARGO B - 4 ó 6
+C29 PORTAL SUBA ,Shaio A - 3 ó 6
+C29 PORTAL SUBA ,SUBA - TV- 91 B - 4 ó 6
+C29 PORTAL SUBA ,La Campiña B - 4 ó 6
+C29 PORTAL SUBA ,Portal Suba T5
+B18 Terminal,PORTAL 20 DE JULIO T9
+B18 Terminal,Country Sur A - 3 ó 6
+B18 Terminal,Av. Primero de Mayo C - 3 ó 6
+B18 Terminal,Hospitales A - 3 ó 6
+B18 Terminal,Bicentenario C - 4 ó 6
+B18 Terminal,Tercer Milenio A - 4 ó 6
+B18 Terminal,Profamilia A - 4 ó 6
+B18 Terminal,Calle 45 A - 4 ó 6
+B18 Terminal,Calle 57 A - 4 ó 6
+B18 Terminal,Calle 63 B - 4 ó 6
+B18 Terminal,Virrey C - 4 ó 6
+B18 Terminal,Pepe Sierra A - 4 ó 6
+B18 Terminal,Calle 127 A - 4 ó 6
+B18 Terminal,Alcalá A - 4 ó 6
+B18 Terminal,Centro Comercial Santa Fe A - 4 ó 6
+B18 Terminal,Terminal A - 4 ó 6
+L18 P. 20 de Julio,Terminal A - 4 ó 6
+L18 P. 20 de Julio,Terminal A - 2 ó 5
+L18 P. 20 de Julio,Centro Comercial Santa Fe A - 2 ó 5
+L18 P. 20 de Julio,Alcalá A - 2 ó 5
+L18 P. 20 de Julio,Calle 127 B - 2 ó 5
+L18 P. 20 de Julio,Pepe Sierra B - 2 ó 5
+L18 P. 20 de Julio,Virrey B - 2 ó 5
+L18 P. 20 de Julio,Calle 63 B - 2 ó 5
+L18 P. 20 de Julio,Calle 57 A - 2 ó 5
+L18 P. 20 de Julio,Calle 45 A - 2 ó 5
+L18 P. 20 de Julio,Profamilia A - 2 ó 5
+L18 P. 20 de Julio,Tercer Milenio A - 2 ó 5
+L18 P. 20 de Julio,Bicentenario C - 2 ó 5
+L18 P. 20 de Julio,Hospitales A - 2 ó 5
+L18 P. 20 de Julio,Av. Primero de Mayo C - 1 ó 5
+L18 P. 20 de Julio,Country Sur A - 2 ó 5
+L18 P. 20 de Julio,PORTAL 20 DE JULIO T9
+B18 Av. Primero de Mayo,Av. Primero de Mayo C - 3 ó 6
+B18 Av. Primero de Mayo,Hospitales A - 3 ó 6
+B18 Av. Primero de Mayo,Bicentenario C - 4 ó 6
+B18 Av. Primero de Mayo,Tercer Milenio A - 4 ó 6
+B18 Av. Primero de Mayo,Profamilia A - 4 ó 6
+B18 Av. Primero de Mayo,Calle 45 A - 4 ó 6
+B18 Av. Primero de Mayo,Calle 57 A - 4 ó 6
+B18 Av. Primero de Mayo,Calle 63 B - 4 ó 6
+B18 Av. Primero de Mayo,Virrey C - 4 ó 6
+B18 Av. Primero de Mayo,Pepe Sierra A - 4 ó 6
+B18 Av. Primero de Mayo,Calle 127 A - 4 ó 6
+B18 Av. Primero de Mayo,Alcalá A - 4 ó 6
+B18 Av. Primero de Mayo,Centro Comercial Santa Fe A - 4 ó 6
+B18 Av. Primero de Mayo,Terminal A - 4 ó 6
+B23 ALCALÁ,Portal Eldorado T3
+B23 ALCALÁ,Av. Rojas A - 2 ó 5
+B23 ALCALÁ,El Tiempo B - 1 ó 5
+B23 ALCALÁ,Salitre El Greco B - 1 ó 5
+B23 ALCALÁ,CAN B - 1 ó 5
+B23 ALCALÁ,Gobernación B - 1 ó 5
+B23 ALCALÁ,Ciudad Universitaria B - 2 ó 5
+B23 ALCALÁ,Plaza de La Democracia B - 2 ó 5
+B23 ALCALÁ,Calle 26 A - 4 ó 6
+B23 ALCALÁ,Calle 45 A - 4 ó 6
+B23 ALCALÁ,Calle 57 A - 4 ó 6
+B23 ALCALÁ,Calle 85 B - 4 ó 6
+B23 ALCALÁ,Prado C - 4 ó 6
+B23 ALCALÁ,Alcalá B - 4 ó 6
+K23 P.ELDORADO,Alcalá B - 4 ó 6
+K23 P.ELDORADO,Alcalá B - 2 ó 5
+K23 P.ELDORADO,Prado C - 2 ó 5
+K23 P.ELDORADO,Calle 85 A - 2 ó 5
+K23 P.ELDORADO,Calle 57 A - 2 ó 5
+K23 P.ELDORADO,Calle 45 A - 2 ó 5
+K23 P.ELDORADO,Calle 26 A - 2 ó 5
+K23 P.ELDORADO,Plaza de La Democracia B - 4 ó 6
+K23 P.ELDORADO,Ciudad Universitaria B - 4 ó 6
+K23 P.ELDORADO,Gobernación B - 4 ó 6
+K23 P.ELDORADO,CAN B - 4 ó 6
+K23 P.ELDORADO,Salitre El Greco B - 4 ó 6
+K23 P.ELDORADO,El Tiempo B - 4 ó 6
+K23 P.ELDORADO,Av. Rojas A - 3 ó 6
+K23 P.ELDORADO,Portal Eldorado T3
+H54 P. USME,Portal Eldorado T6
+H54 P. USME,Modelia A - 2 ó 5
+H54 P. USME,Av. Rojas B - 1 ó 5
+H54 P. USME,El Tiempo A - 2 ó 5
+H54 P. USME,Salitre El Greco A - 2 ó 5
+H54 P. USME,CAN A - 2 ó 5
+H54 P. USME,Quinta Paredes B -1 ó 5
+H54 P. USME,CorLas Ferias A - 2 ó 5
+H54 P. USME,Ciudad Universitaria A - 2 ó 5
+H54 P. USME,Plaza de La Democracia A - 2 ó 5
+H54 P. USME,Hortúa A - 2 ó 5
+H54 P. USME,Restrepo A - 2 ó 5
+H54 P. USME,Calle 40 Sur B - 2 ó 5
+H54 P. USME,Molinos A - 2 ó 5
+H54 P. USME,Cabecera Usme T3
+K54 P. ELDORADO,Cabecera Usme T3
+K54 P. ELDORADO,Molinos B - 4 ó 6
+K54 P. ELDORADO,Calle 40 Sur A - 4 ó 6
+K54 P. ELDORADO,Restrepo A - 3 ó 6
+K54 P. ELDORADO,Hortúa A - 3 ó 6
+K54 P. ELDORADO,Plaza de La Democracia A - 4 ó 6
+K54 P. ELDORADO,Ciudad Universitaria A - 4 ó 6
+K54 P. ELDORADO,CorLas Ferias A - 3 ó 6
+K54 P. ELDORADO,Quinta Paredes B - 4 ó 6
+K54 P. ELDORADO,CAN A - 3 ó 6
+K54 P. ELDORADO,Salitre El Greco A - 3 ó 6
+K54 P. ELDORADO,El Tiempo A - 3 ó 6
+K54 P. ELDORADO,Av. Rojas B - 4 ó 6
+K54 P. ELDORADO,Modelia A - 3 ó 6
+K54 P. ELDORADO,Portal Eldorado T6
+H54 P. USME BIART,Portal Eldorado T6
+H54 P. USME BIART,Modelia A - 2 ó 5
+H54 P. USME BIART,Av. Rojas B - 1 ó 5
+H54 P. USME BIART,El Tiempo A - 2 ó 5
+H54 P. USME BIART,Salitre El Greco A - 2 ó 5
+H54 P. USME BIART,CAN A - 2 ó 5
+H54 P. USME BIART,Quinta Paredes B -1 ó 5
+H54 P. USME BIART,CorLas Ferias A - 2 ó 5
+H54 P. USME BIART,Ciudad Universitaria A - 2 ó 5
+H54 P. USME BIART,Plaza de La Democracia A - 2 ó 5
+H54 P. USME BIART,Hortúa A - 2 ó 5
+H54 P. USME BIART,Restrepo A - 2 ó 5
+H54 P. USME BIART,Calle 40 Sur B - 2 ó 5
+H54 P. USME BIART,Molinos A - 2 ó 5
+H54 P. USME BIART,Cabecera Usme T3
+K54 P. ELDORADO BIART,Cabecera Usme T3
+K54 P. ELDORADO BIART,Molinos B - 4 ó 6
+K54 P. ELDORADO BIART,Calle 40 Sur A - 4 ó 6
+K54 P. ELDORADO BIART,Restrepo A - 3 ó 6
+K54 P. ELDORADO BIART,Hortúa A - 3 ó 6
+K54 P. ELDORADO BIART,Plaza de La Democracia A - 4 ó 6
+K54 P. ELDORADO BIART,Ciudad Universitaria A - 4 ó 6
+K54 P. ELDORADO BIART,CorLas Ferias A - 3 ó 6
+K54 P. ELDORADO BIART,Quinta Paredes B - 4 ó 6
+K54 P. ELDORADO BIART,CAN A - 3 ó 6
+K54 P. ELDORADO BIART,Salitre El Greco A - 3 ó 6
+K54 P. ELDORADO BIART,El Tiempo A - 3 ó 6
+K54 P. ELDORADO BIART,Av. Rojas B - 4 ó 6
+K54 P. ELDORADO BIART,Modelia A - 3 ó 6
+K54 P. ELDORADO BIART,Portal Eldorado T6
+F51 P. AMÉRICAS,Museo Nacional A - 3 ó 6
+F51 P. AMÉRICAS,San Diego A - 2 ó 5
+F51 P. AMÉRICAS,Las Nieves A - 2 ó 5
+F51 P. AMÉRICAS,NQS - RICAURTE D - 3
+F51 P. AMÉRICAS,Carrera 43 B - 4
+F51 P. AMÉRICAS,Carrera 53 B - 4 ó 6
+F51 P. AMÉRICAS,Pradera B - 4
+F51 P. AMÉRICAS,Marsella C - 4
+F51 P. AMÉRICAS,Mundo Aventura B - 4
+F51 P. AMÉRICAS,Mandalay - Cr.73 A - 4
+F51 P. AMÉRICAS,Banderas T7
+F51 P. AMÉRICAS,Tintal A - 3
+F51 P. AMÉRICAS,Patio Bonito A - 3
+F51 P. AMÉRICAS,Portal Américas T4
+M51 MUSEO NACIONAL,Portal Américas T4
+M51 MUSEO NACIONAL,Patio Bonito B - 2
+M51 MUSEO NACIONAL,Tintal A - 1
+M51 MUSEO NACIONAL,Banderas T8
+M51 MUSEO NACIONAL,Mandalay - Cr.73 A - 1
+M51 MUSEO NACIONAL,Mundo Aventura B - 1
+M51 MUSEO NACIONAL,Marsella C - 1
+M51 MUSEO NACIONAL,Pradera B - 2
+M51 MUSEO NACIONAL,Carrera 53 A - 1
+M51 MUSEO NACIONAL,Carrera 43 B - 1
+M51 MUSEO NACIONAL,NQS - RICAURTE D - 2
+M51 MUSEO NACIONAL,Las Nieves A - 4 ó 6
+M51 MUSEO NACIONAL,San Diego A - 3 ó 6
+M51 MUSEO NACIONAL,Museo Nacional A - 3 ó 6
+K43 - P. ELDORADO,San Mateo C - 2 ó 5
+K43 - P. ELDORADO,San Mateo C - 4 ó 6
+K43 - P. ELDORADO,Terreros A - 4 ó 6
+K43 - P. ELDORADO,León XIII B - 3 ó 6
+K43 - P. ELDORADO,DESPENSA A - 3 ó 6
+K43 - P. ELDORADO,Venecia A - 3 ó 6
+K43 - P. ELDORADO,General Santander A - 4 ó 6
+K43 - P. ELDORADO,Sena A - 3 ó 6
+K43 - P. ELDORADO,NQS - RICAURTE C - 4 ó 6
+K43 - P. ELDORADO,CAD A - 4 ó 6
+K43 - P. ELDORADO,CorLas Ferias B - 4 ó 6
+K43 - P. ELDORADO,Quinta Paredes B - 4 ó 6
+K43 - P. ELDORADO,Gobernación B - 4 ó 6
+K43 - P. ELDORADO,Salitre El Greco B - 4 ó 6
+K43 - P. ELDORADO,El Tiempo B - 4 ó 6
+K43 - P. ELDORADO,Normandía A - 3 ó 6
+K43 - P. ELDORADO,Modelia B - 4 ó 6
+K43 - P. ELDORADO,Portal Eldorado T1
+G43 - SAN MATEO,Portal Eldorado T1
+G43 - SAN MATEO,Modelia B -1 ó 5
+G43 - SAN MATEO,Normandía A - 1 ó 5
+G43 - SAN MATEO,El Tiempo B - 1 ó 5
+G43 - SAN MATEO,Salitre El Greco B - 1 ó 5
+G43 - SAN MATEO,Gobernación B - 1 ó 5
+G43 - SAN MATEO,Quinta Paredes B -1 ó 5
+G43 - SAN MATEO,CorLas Ferias B - 1 ó 5
+G43 - SAN MATEO,CAD B - 2 ó 5
+G43 - SAN MATEO,NQS - RICAURTE B - 2 ó 5
+G43 - SAN MATEO,Sena A - 1 ó 5
+G43 - SAN MATEO,General Santander B - 2 ó 5
+G43 - SAN MATEO,Venecia A - 1 ó 5
+G43 - SAN MATEO,DESPENSA A - 2 ó 5
+G43 - SAN MATEO,León XIII B - 2 ó 5
+G43 - SAN MATEO,Terreros A - 2 ó 5
+G43 - SAN MATEO,San Mateo C - 2 ó 5
+K98 - CORLas Ferias,San Mateo B - 2 ó 5
+K98 - CORLas Ferias,San Mateo A - 4
+K98 - CORLas Ferias,Terreros C - 4 ó 6
+K98 - CORLas Ferias,León XIII B - 3 ó 6
+K98 - CORLas Ferias,DESPENSA A - 3 ó 6
+K98 - CORLas Ferias,Bosa B - 4 ó 6
+K98 - CORLas Ferias,Venecia B - 3
+K98 - CORLas Ferias,General Santander B - 3
+K98 - CORLas Ferias,Sena B - 3
+K98 - CORLas Ferias,NQS - RICAURTE C - 3
+K98 - CORLas Ferias,CAD A - 3
+K98 - CORLas Ferias,CorLas Ferias B - 4 ó 6
+G98 - SAN MATEO,CorLas Ferias B - 4 ó 6
+G98 - SAN MATEO,CorLas Ferias B - 1 ó 5
+G98 - SAN MATEO,CAD A - 1
+G98 - SAN MATEO,NQS - RICAURTE B - 1
+G98 - SAN MATEO,Sena B - 1
+G98 - SAN MATEO,General Santander A - 2 ó 5
+G98 - SAN MATEO,Venecia A - 1 ó 5
+G98 - SAN MATEO,Bosa A - 2 ó 5
+G98 - SAN MATEO,DESPENSA B - 1
+G98 - SAN MATEO,León XIII A - 1
+G98 - SAN MATEO,Terreros B - 2
+G98 - SAN MATEO,San Mateo B - 2 ó 5
+G44 - SAN MATEO,Simon Bolivar B - 3
+G44 - SAN MATEO,Simon Bolivar A - 1
+G44 - SAN MATEO,U. Nacional B - 2 ó 5
+G44 - SAN MATEO,Paloquemao A - 1
+G44 - SAN MATEO,Comuneros B - 2
+G44 - SAN MATEO,Santa Isabel B - 1
+G44 - SAN MATEO,ALQUERIA A - 1
+G44 - SAN MATEO,Bosa A - 2 ó 5
+G44 - SAN MATEO,Terreros C - 1 ó 5
+G44 - SAN MATEO,San Mateo B - 2 ó 5
+E44 - Simon Bolivar,San Mateo B - 2 ó 5
+E44 - Simon Bolivar,San Mateo B - 4 ó 6
+E44 - Simon Bolivar,Terreros B - 3
+E44 - Simon Bolivar,Bosa B - 4 ó 6
+E44 - Simon Bolivar,ALQUERIA B - 3
+E44 - Simon Bolivar,Santa Isabel B - 3
+E44 - Simon Bolivar,Comuneros B - 4
+E44 - Simon Bolivar,Paloquemao B - 3
+E44 - Simon Bolivar,U. Nacional A - 4 ó 6
+E44 - Simon Bolivar,Simon Bolivar B - 3
+B93 Cabecera Autopista Norte,Portal Tunal T2
+B93 Cabecera Autopista Norte,Parque el Tunal A - 4
+B93 Cabecera Autopista Norte,Biblioteca A - 3
+B93 Cabecera Autopista Norte,Santa Lucía A - 4 ó 6
+B93 Cabecera Autopista Norte,Calle 40 Sur A - 4 ó 6
+B93 Cabecera Autopista Norte,Olaya A - 3
+B93 Cabecera Autopista Norte,Restrepo A - 3 ó 6
+B93 Cabecera Autopista Norte,Río Fucha A - 3
+B93 Cabecera Autopista Norte,Nariño A - 3
+B93 Cabecera Autopista Norte,Tercer Milenio A - 4 ó 6
+B93 Cabecera Autopista Norte,Avenida Jimenez A - 4 ó 6
+B93 Cabecera Autopista Norte,Calle 19 A - 4 ó 6
+B93 Cabecera Autopista Norte,Calle 22 A - 4 ó 6
+B93 Cabecera Autopista Norte,Calle 63 A - 4 ó 6
+B93 Cabecera Autopista Norte,Las Flores A - 4 ó 6
+B93 Cabecera Autopista Norte,Calle 72 A - 4 ó 6
+B93 Cabecera Autopista Norte,Calle 85 B - 4 ó 6
+B93 Cabecera Autopista Norte,Virrey B - 4
+B93 Cabecera Autopista Norte,Pepe Sierra B - 4 ó 6
+B93 Cabecera Autopista Norte,Calle 146 B - 3
+B93 Cabecera Autopista Norte,Toberín C - 4 ó 6
+B93 Cabecera Autopista Norte,Cabecera Autopista Norte T6
+H93 PORTAL TUNAL,Cabecera Autopista Norte T6
+H93 PORTAL TUNAL,Toberín E - 1
+H93 PORTAL TUNAL,Calle 146 C - 1
+H93 PORTAL TUNAL,Pepe Sierra B - 2 ó 5
+H93 PORTAL TUNAL,Virrey B - 2 ó 5
+H93 PORTAL TUNAL,Calle 85 C - 2 ó 5
+H93 PORTAL TUNAL,Calle 72 B - 2 ó 5
+H93 PORTAL TUNAL,Las Flores A - 2 ó 5
+H93 PORTAL TUNAL,Calle 63 A - 2 ó 5
+H93 PORTAL TUNAL,Calle 22 C - 2
+H93 PORTAL TUNAL,Calle 19 B - 2 ó 5
+H93 PORTAL TUNAL,Avenida Jimenez A - 2 ó 5
+H93 PORTAL TUNAL,Tercer Milenio C - 2
+H93 PORTAL TUNAL,Nariño B - 1
+H93 PORTAL TUNAL,Río Fucha B - 1
+H93 PORTAL TUNAL,Restrepo B - 1
+H93 PORTAL TUNAL,Olaya A - 2
+H93 PORTAL TUNAL,Calle 40 Sur C - 2
+H93 PORTAL TUNAL,Santa Lucía A - 2 ó 5
+H93 PORTAL TUNAL,Biblioteca A - 1
+H93 PORTAL TUNAL,Parque el Tunal A - 2
+H93 PORTAL TUNAL,Portal Tunal T2
+D51 P.80,Cabecera Usme T1
+D51 P.80,Avenida Jimenez B - 4 ó 6
+D51 P.80,Calle 19 A - 3
+D51 P.80,Calle 26 C - 3
+D51 P.80,Profamilia C - 3
+D51 P.80,Avenida 39 B - 4 ó 6
+D51 P.80,Calle 45 B - 4 ó 6
+D51 P.80,Minuto de Dios A - 4 ó 6
+D51 P.80,Cabecera Calle 80 T3
+M99 MUSEO NACIONAL,Portal Américas T5
+M99 MUSEO NACIONAL,Patio Bonito A - 2 ó 5
+M99 MUSEO NACIONAL,Banderas T8
+M99 MUSEO NACIONAL,Mundo Aventura A - 2 ó 5
+M99 MUSEO NACIONAL,NQS - RICAURTE E - 2 ó 5
+M99 MUSEO NACIONAL,Carrera 22 B - 2 ó 5
+M99 MUSEO NACIONAL,Avenida Jimenez E - 2 ó 5
+M99 MUSEO NACIONAL,Las Nieves A - 4 ó 6
+M99 MUSEO NACIONAL,San Diego A - 3 ó 6
+M99 MUSEO NACIONAL,Museo Nacional A - 3 ó 6
+F99 P. AMÉRICAS,Museo Nacional A - 3 ó 6
+F99 P. AMÉRICAS,San Diego A - 2 ó 5
+F99 P. AMÉRICAS,Las Nieves A - 2 ó 5
+F99 P. AMÉRICAS,Avenida Jimenez D - 4 ó 6
+F99 P. AMÉRICAS,Carrera 22 B - 4 ó 6
+F99 P. AMÉRICAS,NQS - RICAURTE E -4 ó 6
+F99 P. AMÉRICAS,Mundo Aventura A - 4 ó 6
+F99 P. AMÉRICAS,Banderas T7
+F99 P. AMÉRICAS,Patio Bonito B - 4 ó 6
+F99 P. AMÉRICAS,Portal Américas T5
+G45 SAN MATEO,Portal Sur T5
+G45 SAN MATEO,Bosa B - 2 ó 5
+G45 SAN MATEO,DESPENSA B - 1
+G45 SAN MATEO,León XIII A - 1
+G45 SAN MATEO,Terreros B - 2
+G45 SAN MATEO,San Mateo A - 1
+G46 PORTAL SUR,San Mateo A - 1
+G46 PORTAL SUR,San Mateo A - 4
+G46 PORTAL SUR,Terreros C - 4 ó 6
+G46 PORTAL SUR,León XIII A - 4
+G46 PORTAL SUR,DESPENSA B - 4
+G46 PORTAL SUR,Bosa A - 4 ó 6
+G46 PORTAL SUR,Portal Sur T5
+M47 M. NACIONAL,Portal Sur T2
+M47 M. NACIONAL,Perdomo B - 3
+M47 M. NACIONAL,Madelena B - 3
+M47 M. NACIONAL,Sevillana A - 3
+M47 M. NACIONAL,ALQUERIA B - 3
+M47 M. NACIONAL,NQS - Calle 38A Sur B - 3
+M47 M. NACIONAL,NQS - Calle 30 Sur A - 3
+M47 M. NACIONAL,Comuneros B - 3
+M47 M. NACIONAL,Guatoque -Veraguas A - 2 ó 5
+M47 M. NACIONAL,Tygua - San José A - 2 ó 5
+M47 M. NACIONAL,San Victorino C - 3
+M47 M. NACIONAL,Las Nieves A - 3
+M47 M. NACIONAL,San Diego B - 4 ó 6
+M47 M. NACIONAL,Museo Nacional A - 2 ó 5
+G47 P. SUR,Museo Nacional A - 2 ó 5
+G47 P. SUR,San Diego B - 1 ó 5
+G47 P. SUR,Las Nieves A - 1
+G47 P. SUR,San Victorino A - 1 ó 5
+G47 P. SUR,Tygua - San José A - 3 ó 6
+G47 P. SUR,Guatoque -Veraguas A - 3 ó 6
+G47 P. SUR,Comuneros A - 1
+G47 P. SUR,NQS - Calle 30 Sur A - 1
+G47 P. SUR,NQS - Calle 38A Sur B - 1
+G47 P. SUR,ALQUERIA B - 1
+G47 P. SUR,Sevillana A - 1
+G47 P. SUR,Madelena B - 1
+G47 P. SUR,Perdomo B - 1
+G47 P. SUR,Portal Sur T2
+1 Universidades,Portal Eldorado T2
+1 Universidades,Modelia B -1 ó 5
+1 Universidades,Normandía A - 1 ó 5
+1 Universidades,Av. Rojas B - 1 ó 5
+1 Universidades,El Tiempo A - 2 ó 5
+1 Universidades,Salitre El Greco B - 1 ó 5
+1 Universidades,CAN B - 1 ó 5
+1 Universidades,Gobernación B - 1 ó 5
+1 Universidades,Quinta Paredes A - 2 ó 5
+1 Universidades,CorLas Ferias A - 2 ó 5
+1 Universidades,Ciudad Universitaria A - 2 ó 5
+1 Universidades,Plaza de La Democracia A - 2 ó 5
+1 Universidades,Centro Memoria A - 2 ó 5
+1 Universidades,Universidades B - 1
+1 P. Eldorado,Universidades B - 1
+1 P. Eldorado,Universidades B - 3
+1 P. Eldorado,Centro Memoria A - 4 ó 6
+1 P. Eldorado,Plaza de La Democracia A - 4 ó 6
+1 P. Eldorado,Ciudad Universitaria B - 4 ó 6
+1 P. Eldorado,CorLas Ferias A - 3 ó 6
+1 P. Eldorado,Quinta Paredes A - 3 ó 6
+1 P. Eldorado,Gobernación B - 4 ó 6
+1 P. Eldorado,CAN B - 4 ó 6
+1 P. Eldorado,Salitre El Greco B - 4 ó 6
+1 P. Eldorado,El Tiempo A - 3 ó 6
+1 P. Eldorado,Av. Rojas B - 4 ó 6
+1 P. Eldorado,Normandía A - 3 ó 6
+1 P. Eldorado,Modelia B - 4 ó 6
+1 P. Eldorado,Portal Eldorado T2
+2 Museo Nacional,PORTAL 20 DE JULIO T7
+2 Museo Nacional,Country Sur B - 4 ó 6
+2 Museo Nacional,Av. Primero de Mayo B - 4 ó 6
+2 Museo Nacional,Ciudad Jardín-UAN B - 4 ó 6
+2 Museo Nacional,Policarpa A - 3 ó 6
+2 Museo Nacional,Hospitales B - 4 ó 6
+2 Museo Nacional,Bicentenario A - 3 ó 6
+2 Museo Nacional,San Victorino B - 4 ó 6
+2 Museo Nacional,Las Nieves B - 4 ó 6
+2 Museo Nacional,San Diego A - 3 ó 6
+2 Museo Nacional,Museo Nacional B - 4 ó 6
+2 P. 20 de Julio,Museo Nacional B - 4 ó 6
+2 P. 20 de Julio,Museo Nacional B - 1 ó 5
+2 P. 20 de Julio,San Diego A - 2 ó 5
+2 P. 20 de Julio,Las Nieves B - 2 ó 5
+2 P. 20 de Julio,San Victorino B - 2 ó 5
+2 P. 20 de Julio,Bicentenario A - 1 ó 5
+2 P. 20 de Julio,Hospitales B - 1 ó 5
+2 P. 20 de Julio,Policarpa A - 2 ó 5
+2 P. 20 de Julio,Ciudad Jardín-UAN B - 1 ó 5
+2 P. 20 de Julio,Av. Primero de Mayo B - 2 ó 5
+2 P. 20 de Julio,Country Sur B - 1 ó 5
+2 P. 20 de Julio,PORTAL 20 DE JULIO T7
+3 Plaza de la Democracia,Cabecera Usme T4
+3 Plaza de la Democracia,Molinos B - 3
+3 Plaza de la Democracia,Consuelo B - 4
+3 Plaza de la Democracia,Socorro A - 3
+3 Plaza de la Democracia,Santa Lucía B - 3
+3 Plaza de la Democracia,Calle 40 Sur B - 3
+3 Plaza de la Democracia,Quiroga B - 4
+3 Plaza de la Democracia,Olaya B - 4
+3 Plaza de la Democracia,Restrepo B - 4
+3 Plaza de la Democracia,Río Fucha B - 4
+3 Plaza de la Democracia,Nariño B - 4
+3 Plaza de la Democracia,Hortúa B - 4
+3 Plaza de la Democracia,Hospital B - 4
+3 Plaza de la Democracia,Tercer Milenio B - 4 ó 6
+3 Plaza de la Democracia,Avenida Jimenez B - 4 ó 6
+3 Plaza de la Democracia,Calle 19 B - 4 ó 6
+3 Plaza de la Democracia,Calle 22 B - 4 ó 6
+3 Plaza de la Democracia,Centro Memoria A - 4 ó 6
+3 Plaza de la Democracia,Plaza de La Democracia A - 4 ó 6
+3 Cabecera Usme,Plaza de La Democracia A - 4 ó 6
+3 Cabecera Usme,Plaza de La Democracia A - 2 ó 5
+3 Cabecera Usme,Centro Memoria A - 2 ó 5
+3 Cabecera Usme,Calle 22 B - 2 ó 5
+3 Cabecera Usme,Calle 19 B - 2 ó 5
+3 Cabecera Usme,Avenida Jimenez A - 2 ó 5
+3 Cabecera Usme,Tercer Milenio B - 2 ó 5
+3 Cabecera Usme,Hospital B - 1
+3 Cabecera Usme,Hortúa B - 1
+3 Cabecera Usme,Nariño B - 1
+3 Cabecera Usme,Río Fucha B - 1
+3 Cabecera Usme,Restrepo B - 1
+3 Cabecera Usme,Olaya B - 1
+3 Cabecera Usme,Quiroga B - 1
+3 Cabecera Usme,Calle 40 Sur C - 2
+3 Cabecera Usme,Santa Lucía A - 1
+3 Cabecera Usme,Socorro A - 2
+3 Cabecera Usme,Consuelo A - 2
+3 Cabecera Usme,Molinos B - 1
+3 Cabecera Usme,Cabecera Usme T4
+4 - Heroes,Portal Sur T2
+4 - Heroes,Perdomo B - 3
+4 - Heroes,Madelena B - 3
+4 - Heroes,Sevillana A - 3
+4 - Heroes,Venecia A - 3 ó 6
+4 - Heroes,ALQUERIA A - 3
+4 - Heroes,General Santander B - 3
+4 - Heroes,NQS - Calle 38A Sur B - 3
+4 - Heroes,NQS - Calle 30 Sur B - 3
+4 - Heroes,Sena B - 3
+4 - Heroes,Santa Isabel A - 3
+4 - Heroes,Comuneros A - 4
+4 - Heroes,NQS - RICAURTE B - 3
+4 - Heroes,Paloquemao A - 4 ó 6
+4 - Heroes,CAD B - 3
+4 - Heroes,Av. El Dorado A - 4 ó 6
+4 - Heroes,U. Nacional A - 4 ó 6
+4 - Heroes,EL CAMPIN A - 4
+4 - Heroes,Coliseo B - 4
+4 - Heroes,Simon Bolivar A - 3
+4 - Heroes,Av. Chile A - 3
+4 - Heroes,NQS - Calle 75 B - 3
+4 - Heroes,Escuela Militar B - 2 ó 5
+4 - Heroes,El Polo A - 1
+4 - Heroes,Heroes A - 4 ó 6
+4 - Portal Sur,Heroes A - 4 ó 6
+4 - Portal Sur,Heroes B - 1
+4 - Portal Sur,El Polo A - 3
+4 - Portal Sur,Escuela Militar A - 3
+4 - Portal Sur,NQS - Calle 75 A - 1
+4 - Portal Sur,Av. Chile A - 1
+4 - Portal Sur,Simon Bolivar B - 2
+4 - Portal Sur,Coliseo B - 2
+4 - Portal Sur,EL CAMPIN B - 2
+4 - Portal Sur,U. Nacional A - 2 ó 5
+4 - Portal Sur,Av. El Dorado A - 2 ó 5
+4 - Portal Sur,CAD A - 1
+4 - Portal Sur,Paloquemao B - 2 ó 5
+4 - Portal Sur,NQS - RICAURTE A - 1
+4 - Portal Sur,Comuneros B - 2
+4 - Portal Sur,Santa Isabel B - 1
+4 - Portal Sur,Sena B - 1
+4 - Portal Sur,NQS - Calle 30 Sur B - 1
+4 - Portal Sur,NQS - Calle 38A Sur A - 1
+4 - Portal Sur,General Santander B - 2 ó 5
+4 - Portal Sur,ALQUERIA B - 1
+4 - Portal Sur,Venecia B - 1
+4 - Portal Sur,Sevillana A - 1
+4 - Portal Sur,Madelena B - 1
+4 - Portal Sur,Perdomo B - 1
+4 - Portal Sur,Portal Sur T2
+5 Calle 22,Portal Américas T8
+5 Calle 22,Patio Bonito B - 1
+5 Calle 22,Tintal B - 2
+5 Calle 22,Transversal 86 B - 1
+5 Calle 22,Banderas T8
+5 Calle 22,Mandalay - Cr.73 A - 2
+5 Calle 22,Mundo Aventura B - 2
+5 Calle 22,Marsella A - 2
+5 Calle 22,Pradera A - 2 ó 5
+5 Calle 22,Carrera 53 A - 2 ó 5
+5 Calle 22,Puente Aranda A - 2
+5 Calle 22,Carrera 43 A - 2
+5 Calle 22,Zona Industrial A - 2
+5 Calle 22,CDS - Carrera 32 A - 2
+5 Calle 22,NQS - RICAURTE D - 2
+5 Calle 22,Carrera 22 A - 2
+5 Calle 22,La Sabana A - 2
+5 Calle 22,Avenida Jimenez E - 3
+5 Calle 22,Calle 19 B - 4 ó 6
+5 Calle 22,Calle 22 B - 4 ó 6
+5 P. Américas,Calle 22 B - 4 ó 6
+5 P. Américas,Calle 22 B - 2 ó 5
+5 P. Américas,Calle 19 B - 2 ó 5
+5 P. Américas,Avenida Jimenez D -3
+5 P. Américas,La Sabana B - 4
+5 P. Américas,Carrera 22 A - 4
+5 P. Américas,NQS - RICAURTE F - 3
+5 P. Américas,CDS - Carrera 32 B - 4
+5 P. Américas,Zona Industrial B - 4
+5 P. Américas,Carrera 43 B - 4
+5 P. Américas,Puente Aranda B - 4
+5 P. Américas,Carrera 53 B - 4 ó 6
+5 P. Américas,Pradera B - 4
+5 P. Américas,Marsella A - 4
+5 P. Américas,Mundo Aventura B - 4
+5 P. Américas,Mandalay - Cr.73 A - 4
+5 P. Américas,Banderas T7
+5 P. Américas,Transversal 86 B - 4
+5 P. Américas,Tintal B - 4 ó 6
+5 P. Américas,Patio Bonito A - 4
+5 P. Américas,Portal Américas T8
+  6 Estación Calle 26 ,Cabecera Calle 80 T2
+  6 Estación Calle 26 ,Quirigua A - 2 ó 5
+  6 Estación Calle 26 ,Carrera 90 A - 1
+  6 Estación Calle 26 ,Avenida Ciudad de Cali A - 2 ó 5
+  6 Estación Calle 26 ,Carrera 77 D - 2 ó 5
+  6 Estación Calle 26 ,Minuto de Dios A - 2 ó 5
+  6 Estación Calle 26 ,Avenida Boyaca A - 2 ó 5
+  6 Estación Calle 26 ,Las Ferias A - 2 ó 5
+  6 Estación Calle 26 ,Avenida 68 A - 2 ó 5
+  6 Estación Calle 26 ,Carrera 53 A - 2
+  6 Estación Calle 26 ,Carrera 47 A - 2 ó 5
+  6 Estación Calle 26 ,Escuela Militar B - 2 ó 5
+  6 Estación Calle 26 ,El Polo A - 1
+  6 Estación Calle 26 ,Calle 76 B - 1
+  6 Estación Calle 26 ,Calle 72 B - 2 ó 5
+  6 Estación Calle 26 ,Las Flores A - 2 ó 5
+  6 Estación Calle 26 ,Calle 63 C - 2
+  6 Estación Calle 26 ,Calle 57 B - 1
+  6 Estación Calle 26 ,Marly B - 1
+  6 Estación Calle 26 ,Calle 45 B - 1
+  6 Estación Calle 26 ,Avenida 39 B - 1
+  6 Estación Calle 26 ,Profamilia B - 1
+  6 Estación Calle 26 ,Calle 26 B - 1
+6 Cabecera Calle 80,Calle 26 B - 1
+6 Cabecera Calle 80,Calle 26 B - 3
+6 Cabecera Calle 80,Profamilia B - 3
+6 Cabecera Calle 80,Avenida 39 A - 3
+6 Cabecera Calle 80,Calle 45 B - 3
+6 Cabecera Calle 80,Marly B - 3
+6 Cabecera Calle 80,Calle 57 B - 3
+6 Cabecera Calle 80,Calle 63 C - 3
+6 Cabecera Calle 80,Las Flores B - 4 ó 6
+6 Cabecera Calle 80,Calle 72 A - 4 ó 6
+6 Cabecera Calle 80,Calle 76 B - 4 ó 6
+6 Cabecera Calle 80,El Polo A - 4 ó 6
+6 Cabecera Calle 80,Escuela Militar A - 3
+6 Cabecera Calle 80,Carrera 47 A - 4 ó 6
+6 Cabecera Calle 80,Carrera 53 A - 4
+6 Cabecera Calle 80,Avenida 68 A - 4 ó 6
+6 Cabecera Calle 80,Las Ferias A - 4 ó 6
+6 Cabecera Calle 80,Avenida Boyaca A - 4 ó 6
+6 Cabecera Calle 80,Minuto de Dios A - 4 ó 6
+6 Cabecera Calle 80,Carrera 77 D - 4 ó 6
+6 Cabecera Calle 80,Avenida Ciudad de Cali A - 4 ó 6
+6 Cabecera Calle 80,Carrera 90 A - 4
+6 Cabecera Calle 80,Quirigua A - 4 ó 6
+6 Cabecera Calle 80,Cabecera Calle 80 T2
+7 NQS - RICAURTE,Portal Suba T2
+7 NQS - RICAURTE,La Campiña A - 2
+7 NQS - RICAURTE,SUBA - TV- 91 A - 2
+7 NQS - RICAURTE,21 ANGELES A - 2
+7 NQS - RICAURTE,Gratamira A - 2
+7 NQS - RICAURTE,Suba - Av. Avenida Boyaca B - 1
+7 NQS - RICAURTE,Niza - Calle 127 A - 2
+7 NQS - RICAURTE,HUMEDAL CORDOBA A - 2
+7 NQS - RICAURTE,Shaio B - 1
+7 NQS - RICAURTE,PUENTE LARGO B - 1 ó 5
+7 NQS - RICAURTE,Suba - Calle 100 A - 2
+7 NQS - RICAURTE,Suba - Calle 95 A - 2
+7 NQS - RICAURTE,RIO NEGRO A - 2
+7 NQS - RICAURTE,SAN MARTIN A - 2
+7 NQS - RICAURTE,NQS - Calle 75 A - 1
+7 NQS - RICAURTE,Av. Chile A - 1
+7 NQS - RICAURTE,Simon Bolivar B - 2
+7 NQS - RICAURTE,Coliseo B - 2
+7 NQS - RICAURTE,EL CAMPIN B - 2
+7 NQS - RICAURTE,U. Nacional C - 1
+7 NQS - RICAURTE,Av. El Dorado A - 2 ó 5
+7 NQS - RICAURTE,CAD A - 1
+7 NQS - RICAURTE,Paloquemao B - 2 ó 5
+7 NQS - RICAURTE,NQS - RICAURTE A - 1
+7 Portal Suba,NQS - RICAURTE A - 1
+7 Portal Suba,NQS - RICAURTE B - 3
+7 Portal Suba,Paloquemao A - 4 ó 6
+7 Portal Suba,CAD B - 3
+7 Portal Suba,Av. El Dorado A - 4 ó 6
+7 Portal Suba,U. Nacional C - 3
+7 Portal Suba,EL CAMPIN A - 4
+7 Portal Suba,Coliseo A - 4
+7 Portal Suba,Simon Bolivar A - 3
+7 Portal Suba,Av. Chile A - 3
+7 Portal Suba,NQS - Calle 75 B - 3
+7 Portal Suba,SAN MARTIN B - 4
+7 Portal Suba,RIO NEGRO B - 4
+7 Portal Suba,Suba - Calle 95 A - 3
+7 Portal Suba,Suba - Calle 100 A - 3
+7 Portal Suba,PUENTE LARGO A - 3
+7 Portal Suba,Shaio B - 4
+7 Portal Suba,HUMEDAL CORDOBA A - 3
+7 Portal Suba,Niza - Calle 127 A - 3
+7 Portal Suba,Suba - Av. Avenida Boyaca A - 3
+7 Portal Suba,Gratamira A - 3
+7 Portal Suba,21 ANGELES A - 3
+7 Portal Suba,SUBA - TV- 91 A - 3
+7 Portal Suba,La Campiña A - 3
+7 Portal Suba,Portal Suba T2
+8 Guatoque,Terminal A - 4 ó 6
+8 Guatoque,Terminal A - 1
+8 Guatoque,Centro Comercial Santa Fe A - 2 ó 5
+8 Guatoque,Cabecera Autopista Norte T4
+8 Guatoque,Toberín C - 2 ó 5
+8 Guatoque,Cardio Infantíl A - 2
+8 Guatoque,Mazurén B - 2
+8 Guatoque,Calle 146 B - 2
+8 Guatoque,Calle 142 A - 2
+8 Guatoque,Alcalá A - 1
+8 Guatoque,Prado B - 1
+8 Guatoque,Calle 127 A - 2 ó 5
+8 Guatoque,Pepe Sierra A - 2 ó 5
+8 Guatoque,Calle 106 A - 2 ó 5
+8 Guatoque,Calle 100 A - 1
+8 Guatoque,Virrey A - 1
+8 Guatoque,Calle 85 B - 1
+8 Guatoque,Heroes B - 1
+8 Guatoque,Calle 76 B - 1
+8 Guatoque,Calle 72 A - 2 ó 5
+8 Guatoque,Las Flores A - 2 ó 5
+8 Guatoque,Calle 63 A - 1
+8 Guatoque,Calle 57 B - 1
+8 Guatoque,Marly B - 1
+8 Guatoque,Calle 45 B - 1
+8 Guatoque,Avenida 39 B - 1
+8 Guatoque,Profamilia B - 1
+8 Guatoque,Calle 26 B - 1
+8 Guatoque,Calle 22 B - 2 ó 5
+8 Guatoque,Calle 19 B - 2 ó 5
+8 Guatoque,Avenida Jimenez A - 2 ó 5
+8 Guatoque,Tercer Milenio B - 2 ó 5
+8 Guatoque,Tygua - San José A - 3 ó 6
+8 Guatoque,Guatoque -Veraguas A - 3 ó 6
+8 Terminal,Guatoque -Veraguas A - 3 ó 6
+8 Terminal,Guatoque -Veraguas A - 2 ó 5
+8 Terminal,Tygua - San José A - 2 ó 5
+8 Terminal,Tercer Milenio B - 4 ó 6
+8 Terminal,Avenida Jimenez B - 4 ó 6
+8 Terminal,Calle 19 B - 4 ó 6
+8 Terminal,Calle 22 B - 4 ó 6
+8 Terminal,Calle 26 B - 3
+8 Terminal,Profamilia B - 3
+8 Terminal,Avenida 39 A - 3
+8 Terminal,Calle 45 B - 3
+8 Terminal,Marly B - 3
+8 Terminal,Calle 57 B - 3
+8 Terminal,Calle 63 A - 4 ó 6
+8 Terminal,Las Flores A - 3
+8 Terminal,Calle 72 C - 3
+8 Terminal,Calle 76 B - 4 ó 6
+8 Terminal,Heroes B - 3
+8 Terminal,Calle 85 A - 3
+8 Terminal,Virrey B - 3
+8 Terminal,Calle 100 A - 3
+8 Terminal,Calle 106 A - 4 ó 6
+8 Terminal,Pepe Sierra A - 4 ó 6
+8 Terminal,Calle 127 A - 4 ó 6
+8 Terminal,Prado B - 4
+8 Terminal,Alcalá A - 4 ó 6
+8 Terminal,Calle 142 A - 4
+8 Terminal,Calle 146 B - 3
+8 Terminal,Mazurén A - 3
+8 Terminal,Cardio Infantíl B - 4
+8 Terminal,Toberín B - 4 ó 6
+8 Terminal,Cabecera Autopista Norte T3
+8 Terminal,Centro Comercial Santa Fe A - 4 ó 6
+8 Terminal,Terminal A - 4 ó 6
+J23 Las Aguas,Portal Américas T6
+J23 Las Aguas,Patio Bonito A - 2 ó 5
+J23 Las Aguas,Banderas T4
+J23 Las Aguas,Mundo Aventura A - 2 ó 5
+J23 Las Aguas,NQS - RICAURTE E - 2 ó 5
+J23 Las Aguas,Carrera 22 B - 2 ó 5
+J23 Las Aguas,Avenida Jimenez E - 2 ó 5
+J23 Las Aguas,Las Aguas A - 2 ó 5
+F23 Américas,Las Aguas A - 2 ó 5
+F23 Américas,Avenida Jimenez D - 4 ó 6
+F23 Américas,Carrera 22 B - 4 ó 6
+F23 Américas,NQS - RICAURTE E -4 ó 6
+F23 Américas,Mundo Aventura A - 4 ó 6
+F23 Américas,Banderas T3
+F23 Américas,Patio Bonito B - 4 ó 6
+F23 Américas,Portal Américas T6
